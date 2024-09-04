@@ -1,0 +1,945 @@
+Processing Image: 7;AST-SP091.jpeg                  Number: 1
+Extracted Name: %
+
+”[CARTA MAGIC
+Expected Name: 7
+
+Similarity Score between Extracted and Expected Name: 0.44
+Similarity is below the threshold of 0.7.
+
+The set code for this card is: AST-SP
+The set associated with this card's code is: SANTUARIO ANTIGUO
+
+Final prediction was INCORRECT for: Ataque Mágico Oscuro, it should have been 7
+ ------------------------------------------------------------------------------------
+
+Processing Image: ATACANTE DELTA;AST-SP096 (2).jpeg                  Number: 9
+Extracted Name: ATACANTE  DFITA R S L A O T s el A
+
+. MAGICA |
+Expected Name: ATACANTE DELTA
+
+Similarity Score between Extracted and Expected Name: 0.40
+Similarity is below the threshold of 0.7.
+
+The set code for this card is: AST-SP
+The set associated with this card's code is: SANTUARIO ANTIGUO
+
+Final prediction was INCORRECT for: Golem de Ruedas la Fortaleza Móvil, it should have been ATACANTE DELTA
+ ------------------------------------------------------------------------------------
+
+Processing Image: ATACANTE DELTA;AST-SP096.jpeg                  Number: 11
+Extracted Name: ATACANTE AR SRR A SRS VS 2o AN S A
+
+[ CARTA DFITA MAGICA |
+Expected Name: ATACANTE DELTA
+
+Similarity Score between Extracted and Expected Name: 0.33
+Similarity is below the threshold of 0.7.
+
+The set code for this card is: AST-SP
+The set associated with this card's code is: SANTUARIO ANTIGUO
+
+Final prediction was INCORRECT for: Estatua de piedra de los Aztecas, it should have been ATACANTE DELTA
+ ------------------------------------------------------------------------------------
+
+Processing Image: BACKFIRE;AST-SP046 (2).jpeg                  Number: 13
+Extracted Name: BACKFIRE —
+
+[ CARTA N RIRNORG =4 4 5 I8 30°, SR AR
+
+TRAMPA G
+Expected Name: BACKFIRE
+
+Similarity Score between Extracted and Expected Name: 0.30
+Similarity is below the threshold of 0.7.
+
+The set code for this card is: AST-SP
+The set associated with this card's code is: SANTUARIO ANTIGUO
+
+Final prediction was INCORRECT for: Talismán de Sellar Trampas, it should have been BACKFIRE
+ ------------------------------------------------------------------------------------
+
+Processing Image: BACKFIRE;AST-SP046 (3).jpeg                  Number: 14
+Extracted Name: 3ACKFIRE [ CARTA DE DOYRIIN =121 A
+
+TRAMPA
+Expected Name: BACKFIRE
+
+Similarity Score between Extracted and Expected Name: 0.41
+Similarity is below the threshold of 0.7.
+
+The set code for this card is: AST-SP
+The set associated with this card's code is: SANTUARIO ANTIGUO
+
+Final prediction was INCORRECT for: Talismán de Sellar Trampas, it should have been BACKFIRE
+ ------------------------------------------------------------------------------------
+
+Processing Image: BACKFIRE;AST-SP046 (4).jpeg                  Number: 15
+Extracted Name: IBACKFIRE [ CARTA \ DE ] TRAMPA &
+Expected Name: BACKFIRE
+
+Similarity Score between Extracted and Expected Name: 0.48
+Similarity is below the threshold of 0.7.
+
+The set code for this card is: AST-SP
+The set associated with this card's code is: SANTUARIO ANTIGUO
+
+Final prediction was INCORRECT for: Ninjitsu Arte de la Transformación, it should have been BACKFIRE
+ ------------------------------------------------------------------------------------
+
+Processing Image: BACKFIRE;AST-SP046 (5).jpeg                  Number: 16
+Extracted Name: IBACKF[RE [ CARTA [RAMPA &
+Expected Name: BACKFIRE
+
+Similarity Score between Extracted and Expected Name: 0.42
+Similarity is below the threshold of 0.7.
+
+The set code for this card is: AST-SP
+The set associated with this card's code is: SANTUARIO ANTIGUO
+
+Final prediction was INCORRECT for: Talismán de Sellar Trampas, it should have been BACKFIRE
+ ------------------------------------------------------------------------------------
+
+Processing Image: BACKFIRE;AST-SP046.jpeg                  Number: 17
+Extracted Name: | BACKFIRE Mﬂw
+[ CARTA | TRAMPA (
+Expected Name: BACKFIRE
+
+Similarity Score between Extracted and Expected Name: 0.41
+Similarity is below the threshold of 0.7.
+
+The set code for this card is: AST-SP
+The set associated with this card's code is: SANTUARIO ANTIGUO
+
+Final prediction was INCORRECT for: Talismán de Sellar Trampas, it should have been BACKFIRE
+ ------------------------------------------------------------------------------------
+
+Processing Image: GOBLIN LADRÓN;AST-SP045 (2).jpeg                  Number: 55
+Extracted Name: GOBLIN ADRON e Sl ol
+
+[CARTA 1\4 . MAGICA
+Expected Name: GOBLIN LADRÓN
+
+Similarity Score between Extracted and Expected Name: 0.48
+Similarity is below the threshold of 0.7.
+
+The set code for this card is: AST-SP
+The set associated with this card's code is: SANTUARIO ANTIGUO
+
+Final prediction was INCORRECT for: Talismán de Sellar Trampas, it should have been GOBLIN LADRÓN
+ ------------------------------------------------------------------------------------
+
+Processing Image: LLAMA ESPÍRITUS;AST-SP075.jpeg                  Number: 87
+Extracted Name: T1AMA L CDIRITIIC
+Expected Name: LLAMA ESPÍRITUS
+
+Similarity Score between Extracted and Expected Name: 0.51
+Similarity is below the threshold of 0.7.
+
+The set code for this card is: AST-SP
+The set associated with this card's code is: SANTUARIO ANTIGUO
+
+Final prediction was INCORRECT for: TAPIR DEL DESIERTO, it should have been LLAMA ESPÍRITUS
+ ------------------------------------------------------------------------------------
+
+Processing Image: MICRO RAYO;AST-SP047 (3).jpeg                  Number: 100
+Extracted Name: MICRO RAYO [ CARTA "DE ] e aaaes e
+
+F'RAMPA ]
+Expected Name: MICRO RAYO
+
+Similarity Score between Extracted and Expected Name: 0.37
+Similarity is below the threshold of 0.7.
+
+The set code for this card is: AST-SP
+The set associated with this card's code is: SANTUARIO ANTIGUO
+
+Final prediction was INCORRECT for: Insecto Acorazado de Metal, it should have been MICRO RAYO
+ ------------------------------------------------------------------------------------
+
+Processing Image: TALISMÁN DE SELLAR HECHIZOS;AST-SP049.jpeg                  Number: 133
+Extracted Name: TALISMAN CARTA ] SELIAR HEecHI708 TRAMPA
+Expected Name: TALISMÁN DE SELLAR HECHIZOS
+
+Similarity Score between Extracted and Expected Name: 0.64
+Similarity is below the threshold of 0.7.
+
+The set code for this card is: AST-SP
+The set associated with this card's code is: SANTUARIO ANTIGUO
+
+Final prediction was INCORRECT for: Talismán de Sellar Trampas, it should have been TALISMÁN DE SELLAR HECHIZOS
+ ------------------------------------------------------------------------------------
+
+Processing Image: TERREMOTO;AST-SP043 (3).jpeg                  Number: 139
+Extracted Name: TERREMOTO Lpo ey g di s st 2
+
+[CARTA 1\ A MAGICA ]
+Expected Name: TERREMOTO
+
+Similarity Score between Extracted and Expected Name: 0.33
+Similarity is below the threshold of 0.7.
+
+The set code for this card is: AST-SP
+The set associated with this card's code is: SANTUARIO ANTIGUO
+
+Final prediction was INCORRECT for: Protector del Santuario, it should have been TERREMOTO
+ ------------------------------------------------------------------------------------
+
+Processing Image: CYCROID;CRV-SP001.jpeg                  Number: 146
+Extracted Name: CYCROID
+Expected Name: CYCROID
+
+Similarity Score between Extracted and Expected Name: 0.57
+Similarity is below the threshold of 0.7.
+
+The set code for this card is: CRV-SP
+The set associated with this card's code is: REVOLUCIÓN CIBERNÉTICA
+
+Final prediction was INCORRECT for: PATROID, it should have been CYCROID
+ ------------------------------------------------------------------------------------
+
+Processing Image: GYROID;CRV-SP007.jpeg                  Number: 147
+Extracted Name: GYROIL
+Expected Name: GYROID
+
+Similarity Score between Extracted and Expected Name: 0.46
+Similarity is below the threshold of 0.7.
+
+The set code for this card is: CRV-SP
+The set associated with this card's code is: REVOLUCIÓN CIBERNÉTICA
+
+Final prediction was INCORRECT for: PATROID, it should have been GYROID
+ ------------------------------------------------------------------------------------
+
+Processing Image: ARRIESGAR;DB1-SP172 (2).jpeg                  Number: 161
+Extracted Name: ARRIE 1ESGAR [ CARTA [ADET TRAMPA |
+Expected Name: ARRIESGAR
+
+Similarity Score between Extracted and Expected Name: 0.48
+Similarity is below the threshold of 0.7.
+
+The set code for this card is: DB1-SP
+The set associated with this card's code is: PRINCIPIO OSCURO 1
+
+Final prediction was INCORRECT for: Gearfried el Caballero de Hierro, it should have been ARRIESGAR
+ ------------------------------------------------------------------------------------
+
+Processing Image: ARRIESGAR;DB1-SP172.jpeg                  Number: 162
+Extracted Name: |ARRIESGAF | CARTA A DE '] TRAMPA ]
+Expected Name: ARRIESGAR
+
+Similarity Score between Extracted and Expected Name: 0.45
+Similarity is below the threshold of 0.7.
+
+The set code for this card is: DB1-SP
+The set associated with this card's code is: PRINCIPIO OSCURO 1
+
+Final prediction was INCORRECT for: Gearfried el Caballero de Hierro, it should have been ARRIESGAR
+ ------------------------------------------------------------------------------------
+
+Processing Image: CAMBIO;DB1-SP182.jpeg                  Number: 166
+Extracted Name: CARTA DE TRAMPA
+Expected Name: CAMBIO
+
+Similarity Score between Extracted and Expected Name: 0.67
+Similarity is below the threshold of 0.7.
+
+The set code for this card is: DB1-SP
+The set associated with this card's code is: PRINCIPIO OSCURO 1
+
+Final prediction was INCORRECT for: Caja de Hada, it should have been CAMBIO
+ ------------------------------------------------------------------------------------
+
+Processing Image: MÁSCARA DE LA DEBILIDAD;DB1-SP218.jpeg                  Number: 221
+Extracted Name: MASCARA    E TRAMPA |
+Expected Name: MÁSCARA DE LA DEBILIDAD
+
+Similarity Score between Extracted and Expected Name: 0.57
+Similarity is below the threshold of 0.7.
+
+The set code for this card is: DB1-SP
+The set associated with this card's code is: PRINCIPIO OSCURO 1
+
+Final prediction was INCORRECT for: Máscara de Brutalidad, it should have been MÁSCARA DE LA DEBILIDAD
+ ------------------------------------------------------------------------------------
+
+Processing Image: SOMBRA DE OJOS;DB1-SP189.jpeg                  Number: 238
+Extracted Name: ISOMBRA | CARTA  0108 A DE T TRAMPA |
+Expected Name: SOMBRA DE OJOS
+
+Similarity Score between Extracted and Expected Name: 0.43
+Similarity is below the threshold of 0.7.
+
+The set code for this card is: DB1-SP
+The set associated with this card's code is: PRINCIPIO OSCURO 1
+
+Final prediction was INCORRECT for: Liberación del Alma, it should have been SOMBRA DE OJOS
+ ------------------------------------------------------------------------------------
+
+Processing Image: TOMATE MÍSTICO;DB1-SP057.jpeg                  Number: 244
+Extracted Name: MISTICO 3
+
+HE
+
+. -
+
+i
+Expected Name: TOMATE MÍSTICO
+
+Similarity Score between Extracted and Expected Name: 0.37
+Similarity is below the threshold of 0.7.
+
+The set code for this card is: DB1-SP
+The set associated with this card's code is: PRINCIPIO OSCURO 1
+
+Final prediction was INCORRECT for: Monstruo Renacido, it should have been TOMATE MÍSTICO
+ ------------------------------------------------------------------------------------
+
+Processing Image: DE-FUSIÓN;DP04-SP017.jpeg                  Number: 280
+Extracted Name: -FUSION [ CARTA N
+N
+
+MAGICA |
+
+/
+
+y
+Expected Name: DE-FUSIÓN
+
+Similarity Score between Extracted and Expected Name: 0.29
+Similarity is below the threshold of 0.7.
+
+The set code for this card is: DP04-SP
+The set associated with this card's code is: SOBRE DE DUELISTA - ZANE TRUESDALE
+
+Final prediction was INCORRECT for: FUSIÓN FUTURA, it should have been DE-FUSIÓN
+ ------------------------------------------------------------------------------------
+
+Processing Image: AMA ELEMENTAL DORIADO;DR3-SP214.jpeg                  Number: 312
+Extracted Name: ' AMA ELEMENTAL
+Expected Name: AMA ELEMENTAL DORIADO
+
+Similarity Score between Extracted and Expected Name: 0.83
+Similarity is above the threshold of 0.7.
+
+The set code for this card is: DR3-SP
+The set associated with this card's code is: REVELACIÓN OSCURA VOLUMEN 3
+
+Final prediction was INCORRECT for: MAGA ELEMENTAL, it should have been AMA ELEMENTAL DORIADO
+ ------------------------------------------------------------------------------------
+
+Processing Image: CAMPO CENTRÍFUGO;DR3-SP165 (2).jpeg                  Number: 331
+Extracted Name: CAMPO
+Expected Name: CAMPO CENTRÍFUGO
+
+Similarity Score between Extracted and Expected Name: 0.50
+Similarity is below the threshold of 0.7.
+
+The set code for this card is: DR3-SP
+The set associated with this card's code is: REVELACIÓN OSCURA VOLUMEN 3
+
+Final prediction was INCORRECT for: CAMPEÓN KANGURO, it should have been CAMPO CENTRÍFUGO
+ ------------------------------------------------------------------------------------
+
+Processing Image: DAMA ARPÍA 2;DR3-SP078.jpeg                  Number: 349
+Extracted Name: DAMA ARPIA [0
+v
+J&
+Expected Name: DAMA ARPÍA 2
+
+Similarity Score between Extracted and Expected Name: 0.67
+Similarity is below the threshold of 0.7.
+
+The set code for this card is: DR3-SP
+The set associated with this card's code is: REVELACIÓN OSCURA VOLUMEN 3
+
+Final prediction was INCORRECT for: DAMA ARPÍA 1, it should have been DAMA ARPÍA 2
+ ------------------------------------------------------------------------------------
+
+Processing Image: DAMA ARPÍA 3;DR3-SP079.jpeg                  Number: 350
+Extracted Name: DAMA ARPIA
+Expected Name: DAMA ARPÍA 3
+
+Similarity Score between Extracted and Expected Name: 0.82
+Similarity is above the threshold of 0.7.
+
+The set code for this card is: DR3-SP
+The set associated with this card's code is: REVELACIÓN OSCURA VOLUMEN 3
+
+Final prediction was INCORRECT for: DAMA ARPÍA 1, it should have been DAMA ARPÍA 3
+ ------------------------------------------------------------------------------------
+
+Processing Image: DRAGÓN ELEMENTAL;DR3-SP023 (2).jpeg                  Number: 360
+Extracted Name: " GR CTRUL
+Expected Name: DRAGÓN ELEMENTAL
+
+Similarity Score between Extracted and Expected Name: 0.48
+Similarity is below the threshold of 0.7.
+
+The set code for this card is: DR3-SP
+The set associated with this card's code is: REVELACIÓN OSCURA VOLUMEN 3
+
+Final prediction was INCORRECT for: Gran Núcleo, it should have been DRAGÓN ELEMENTAL
+ ------------------------------------------------------------------------------------
+
+Processing Image: EL OJO DEL GORGON;DR3-SP058.jpeg                  Number: 367
+Extracted Name: 010 DFI [CARTA ] GORCON | ' AMPA |
+Expected Name: EL OJO DEL GORGON
+
+Similarity Score between Extracted and Expected Name: 0.40
+Similarity is below the threshold of 0.7.
+
+The set code for this card is: DR3-SP
+The set associated with this card's code is: REVELACIÓN OSCURA VOLUMEN 3
+
+Final prediction was INCORRECT for: Descarga de Fuego Infernal, it should have been EL OJO DEL GORGON
+ ------------------------------------------------------------------------------------
+
+Processing Image: FUH-RIN-KA-ZAN;DR3-SP115.jpeg                  Number: 381
+Extracted Name: FUH- RIN:- Dad et Hhe et Lu tar e 4 i e G ad.
+
+[CARTA L KA-ZAN "RAMPA |
+Expected Name: FUH-RIN-KA-ZAN
+
+Similarity Score between Extracted and Expected Name: 0.33
+Similarity is below the threshold of 0.7.
+
+The set code for this card is: DR3-SP
+The set associated with this card's code is: REVELACIÓN OSCURA VOLUMEN 3
+
+Final prediction was INCORRECT for: Equipo A Unidad de Desactivación de Trampas, it should have been FUH-RIN-KA-ZAN
+ ------------------------------------------------------------------------------------
+
+Processing Image: GOLPE KAMINOTE;DR3-SP222.jpeg                  Number: 392
+Extracted Name: GOLPE KAMINOTE (A Seaviiasivineteric ek e ittt Gt A e )
+
+ARTA MAGICA
+Expected Name: GOLPE KAMINOTE
+
+Similarity Score between Extracted and Expected Name: 0.38
+Similarity is below the threshold of 0.7.
+
+The set code for this card is: DR3-SP
+The set associated with this card's code is: REVELACIÓN OSCURA VOLUMEN 3
+
+Final prediction was INCORRECT for: El Cementerio en la Cuarta Dimensión, it should have been GOLPE KAMINOTE
+ ------------------------------------------------------------------------------------
+
+Processing Image: HIITA LA ENCANTADORA DEL FUEGO;DR3-SP208 (2).jpeg                  Number: 401
+Extracted Name: Hura FNCANTADORA A DEL
+Expected Name: HIITA LA ENCANTADORA DEL FUEGO
+
+Similarity Score between Extracted and Expected Name: 0.68
+Similarity is below the threshold of 0.7.
+
+The set code for this card is: DR3-SP
+The set associated with this card's code is: REVELACIÓN OSCURA VOLUMEN 3
+
+Final prediction was INCORRECT for: Eria la Encantadora del Agua, it should have been HIITA LA ENCANTADORA DEL FUEGO
+ ------------------------------------------------------------------------------------
+
+Processing Image: LOBO SOLITARIO;DR3-SP240.jpeg                  Number: 421
+Extracted Name: e):10 SOLITARIO [ CARTA D \MPA
+Expected Name: LOBO SOLITARIO
+
+Similarity Score between Extracted and Expected Name: 0.48
+Similarity is below the threshold of 0.7.
+
+The set code for this card is: DR3-SP
+The set associated with this card's code is: REVELACIÓN OSCURA VOLUMEN 3
+
+Final prediction was INCORRECT for: El Cementerio en la Cuarta Dimensión, it should have been LOBO SOLITARIO
+ ------------------------------------------------------------------------------------
+
+Processing Image: NEGACIÓN;DR3-SP057.jpeg                  Number: 440
+Extracted Name: NEGACION [ CARTA  TRAMPA |
+Expected Name: NEGACIÓN
+
+Similarity Score between Extracted and Expected Name: 0.45
+Similarity is below the threshold of 0.7.
+
+The set code for this card is: DR3-SP
+The set associated with this card's code is: REVELACIÓN OSCURA VOLUMEN 3
+
+Final prediction was INCORRECT for: El Cementerio en la Cuarta Dimensión, it should have been NEGACIÓN
+ ------------------------------------------------------------------------------------
+
+Processing Image: SOLDADO ELEMENTAL;DR3-SP024.jpeg                  Number: 470
+Extracted Name: ALT GR
+Expected Name: SOLDADO ELEMENTAL
+
+Similarity Score between Extracted and Expected Name: 0.56
+Similarity is below the threshold of 0.7.
+
+The set code for this card is: DR3-SP
+The set associated with this card's code is: REVELACIÓN OSCURA VOLUMEN 3
+
+Final prediction was INCORRECT for: ASALTO A GHQ, it should have been SOLDADO ELEMENTAL
+ ------------------------------------------------------------------------------------
+
+Processing Image: XING ZHEN HU;DR3-SP111.jpeg                  Number: 475
+Extracted Name: XING 7HEN R R AN T
+
+[ CARTA Hu , DE [RAMDPA
+Expected Name: XING ZHEN HU
+
+Similarity Score between Extracted and Expected Name: 0.41
+Similarity is below the threshold of 0.7.
+
+The set code for this card is: DR3-SP
+The set associated with this card's code is: REVELACIÓN OSCURA VOLUMEN 3
+
+Final prediction was INCORRECT for: La Gran Marcha de los Animales, it should have been XING ZHEN HU
+ ------------------------------------------------------------------------------------
+
+Processing Image: RE-FUSIÓN;FET-SP047.jpeg                  Number: 502
+Extracted Name: RE- FUSION [CARTA )\ \ MAGICA (¢
+Expected Name: RE-FUSIÓN
+
+Similarity Score between Extracted and Expected Name: 0.40
+Similarity is below the threshold of 0.7.
+
+The set code for this card is: FET-SP
+The set associated with this card's code is: ETERNIDAD LLAMEANTE
+
+Final prediction was INCORRECT for: ABARE USHIONI, it should have been RE-FUSIÓN
+ ------------------------------------------------------------------------------------
+
+Processing Image: RECARGA VOLCÁNICA;FOTB-SP049.jpeg                  Number: 550
+Extracted Name: RECARGA [ CARTA DE VOL(‘ANI(‘A )E TRAMPA |}
+Expected Name: RECARGA VOLCÁNICA
+
+Similarity Score between Extracted and Expected Name: 0.49
+Similarity is below the threshold of 0.7.
+
+The set code for this card is: FOTB-SP
+The set associated with this card's code is: FUERZA DEL ROMPEDOR
+
+Final prediction was INCORRECT for: ENERGÍA CEGADORA DE LA JOYA, it should have been RECARGA VOLCÁNICA
+ ------------------------------------------------------------------------------------
+
+Processing Image: TORNADO;FOTB-SP038.jpeg                  Number: 555
+Extracted Name: TORNADO oo
+
+[CARTA M MAGICA |
+Expected Name: TORNADO
+
+Similarity Score between Extracted and Expected Name: 0.39
+Similarity is below the threshold of 0.7.
+
+The set code for this card is: FOTB-SP
+The set associated with this card's code is: FUERZA DEL ROMPEDOR
+
+Final prediction was INCORRECT for: RECARGA VOLCÁNICA, it should have been TORNADO
+ ------------------------------------------------------------------------------------
+
+Processing Image: MODELO EJEMPLAR DE MAGO;LOTD-SP084.jpeg                  Number: 673
+Extracted Name: MonFrio FIEFMPI AR \
+
+DE | MAGO
+Expected Name: MODELO EJEMPLAR DE MAGO
+
+Similarity Score between Extracted and Expected Name: 0.40
+Similarity is below the threshold of 0.7.
+
+The set code for this card is: LOTD-SP
+The set associated with this card's code is: PODER DEL DUELISTA
+
+Final prediction was INCORRECT for: Mandamiento Real de Impuestos, it should have been MODELO EJEMPLAR DE MAGO
+ ------------------------------------------------------------------------------------
+
+Processing Image: ALMA EN COMÚN;POTD-SP045.jpeg                  Number: 741
+Extracted Name: COoMUN
+Expected Name: ALMA EN COMÚN
+
+Similarity Score between Extracted and Expected Name: 0.43
+Similarity is below the threshold of 0.7.
+
+The set code for this card is: POTD-SP
+The set associated with this card's code is: PODER DEL DUELISTA
+
+Final prediction was INCORRECT for: CONTACTO, it should have been ALMA EN COMÚN
+ ------------------------------------------------------------------------------------
+
+Processing Image: HÉROE FALSO;POTD-SP038 (2).jpeg                  Number: 769
+Extracted Name: HEROE FALSO Leieim e s painte gel
+
+CARTA l \GICA ]
+Expected Name: HÉROE FALSO
+
+Similarity Score between Extracted and Expected Name: 0.39
+Similarity is below the threshold of 0.7.
+
+The set code for this card is: POTD-SP
+The set associated with this card's code is: PODER DEL DUELISTA
+
+Final prediction was INCORRECT for: HÉROE DEL DESTINO - BLADE MASTER, it should have been HÉROE FALSO
+ ------------------------------------------------------------------------------------
+
+Processing Image: CIBER OUROBOROS;PTDN-SP011.jpeg                  Number: 808
+Extracted Name: CIRER (N1 I1DABADNAC
+Expected Name: CIBER OUROBOROS
+
+Similarity Score between Extracted and Expected Name: 0.50
+Similarity is below the threshold of 0.7.
+
+The set code for this card is: PTDN-SP
+The set associated with this card's code is: OSCURIDAD FANTASMA
+
+Final prediction was INCORRECT for: Ciber Armado, it should have been CIBER OUROBOROS
+ ------------------------------------------------------------------------------------
+
+Processing Image: BOKOICHI EL COCHE QUE ASUSTA;RDS-SP003 (tilted).jpeg                  Number: 868
+Extracted Name: £ X N nﬁ.( ALt \ .\C"k
+Expected Name: BOKOICHI EL COCHE QUE ASUSTA
+
+Similarity Score between Extracted and Expected Name: 0.28
+Similarity is below the threshold of 0.7.
+
+The set code for this card is: RDS-SP
+The set associated with this card's code is: AUGE DEL DESTINO
+
+Final prediction was INCORRECT for: EXPERTO EN ESPIONAJE TÁCTICO, it should have been BOKOICHI EL COCHE QUE ASUSTA
+ ------------------------------------------------------------------------------------
+
+Processing Image: DAMA ARPÍA 2;RDS-SP018.jpeg                  Number: 872
+Extracted Name: DAMA ARPIA
+Expected Name: DAMA ARPÍA 2
+
+Similarity Score between Extracted and Expected Name: 0.82
+Similarity is above the threshold of 0.7.
+
+The set code for this card is: RDS-SP
+The set associated with this card's code is: AUGE DEL DESTINO
+
+Final prediction was INCORRECT for: DAMA ARPÍA 1, it should have been DAMA ARPÍA 2
+ ------------------------------------------------------------------------------------
+
+Processing Image: DAMA ARPÍA 3;RDS-SP019.jpeg                  Number: 873
+Extracted Name: DAMA ARPIA
+Expected Name: DAMA ARPÍA 3
+
+Similarity Score between Extracted and Expected Name: 0.82
+Similarity is above the threshold of 0.7.
+
+The set code for this card is: RDS-SP
+The set associated with this card's code is: AUGE DEL DESTINO
+
+Final prediction was INCORRECT for: DAMA ARPÍA 1, it should have been DAMA ARPÍA 3
+ ------------------------------------------------------------------------------------
+
+Processing Image: GUARDIA PODEROSO;RDS-SP002 (tilted).jpeg                  Number: 890
+Extracted Name: ~RD/4  ol 14
+Expected Name: GUARDIA PODEROSO
+
+Similarity Score between Extracted and Expected Name: 0.31
+Similarity is below the threshold of 0.7.
+
+The set code for this card is: RDS-SP
+The set associated with this card's code is: AUGE DEL DESTINO
+
+Final prediction was INCORRECT for: Zorro de Fuego, it should have been GUARDIA PODEROSO
+ ------------------------------------------------------------------------------------
+
+Processing Image: HACKEAR LA MENTE;RDS-SP054 (left tilt).jpeg                  Number: 892
+Extracted Name: G r~A0TA  o 4
+AAeNTE AﬂEr A MPA‘
+Expected Name: HACKEAR LA MENTE
+
+Similarity Score between Extracted and Expected Name: 0.37
+Similarity is below the threshold of 0.7.
+
+The set code for this card is: RDS-SP
+The set associated with this card's code is: AUGE DEL DESTINO
+
+Final prediction was INCORRECT for: Némesis Reptante Manta, it should have been HACKEAR LA MENTE
+ ------------------------------------------------------------------------------------
+
+Processing Image: HOMUNCULUS EL SER ALQUÍMICO;RDS-SP034.jpeg                  Number: 895
+Extracted Name: HoMuNcineg | N
+Expected Name: HOMUNCULUS EL SER ALQUÍMICO
+
+Similarity Score between Extracted and Expected Name: 0.39
+Similarity is below the threshold of 0.7.
+
+The set code for this card is: RDS-SP
+The set associated with this card's code is: AUGE DEL DESTINO
+
+Final prediction was INCORRECT for: Duplicación de Máquina, it should have been HOMUNCULUS EL SER ALQUÍMICO
+ ------------------------------------------------------------------------------------
+
+Processing Image: MAGA ELEMENTAL;RDS-SP013 (tilted).jpeg                  Number: 902
+Extracted Name: R
+Expected Name: MAGA ELEMENTAL
+
+Similarity Score between Extracted and Expected Name: 0.22
+Similarity is below the threshold of 0.7.
+
+The set code for this card is: RDS-SP
+The set associated with this card's code is: AUGE DEL DESTINO
+
+Final prediction was INCORRECT for: Tragedia, it should have been MAGA ELEMENTAL
+ ------------------------------------------------------------------------------------
+
+Processing Image: OJO DE ÁGUILA;RDS-SP022 (left tilt).jpeg                  Number: 909
+Extracted Name: n\10  ,1“‘ p
+Expected Name: OJO DE ÁGUILA
+
+Similarity Score between Extracted and Expected Name: 0.25
+Similarity is below the threshold of 0.7.
+
+The set code for this card is: RDS-SP
+The set associated with this card's code is: AUGE DEL DESTINO
+
+Final prediction was INCORRECT for: XING ZHEN HU, it should have been OJO DE ÁGUILA
+ ------------------------------------------------------------------------------------
+
+Processing Image: XING ZHEN HU;RDS-SP051.jpeg                  Number: 925
+Extracted Name: IXING [ CAR /HEN . DE  I RAMPA ©9)
+Expected Name: XING ZHEN HU
+
+Similarity Score between Extracted and Expected Name: 0.42
+Similarity is below the threshold of 0.7.
+
+The set code for this card is: RDS-SP
+The set associated with this card's code is: AUGE DEL DESTINO
+
+Final prediction was INCORRECT for: Invasión de Llamas, it should have been XING ZHEN HU
+ ------------------------------------------------------------------------------------
+
+Processing Image: TYRANNO NEGRO;SD09-SP008.jpeg                  Number: 978
+Extracted Name: TYRANNO Neconpo i i e
+ATERRA
+Expected Name: TYRANNO NEGRO
+
+Similarity Score between Extracted and Expected Name: 0.56
+Similarity is below the threshold of 0.7.
+
+The set code for this card is: SD09-SP
+The set associated with this card's code is: BARAJA DE ESTRUCTURA CÓLERA DE DINOSAURIO
+
+Final prediction was INCORRECT for: Tyranno Superconductor, it should have been TYRANNO NEGRO
+ ------------------------------------------------------------------------------------
+
+Processing Image: AVARICIA;SOD-SP055.jpeg                  Number: 991
+Extracted Name: AVARICIA CARTA DE ] IRAMPA
+Expected Name: AVARICIA
+
+Similarity Score between Extracted and Expected Name: 0.48
+Similarity is below the threshold of 0.7.
+
+The set code for this card is: SOD-SP
+The set associated with this card's code is: ALMA DEL DUELISTA
+
+Final prediction was INCORRECT for: Factoria Oscura de Producción Masiva, it should have been AVARICIA
+ ------------------------------------------------------------------------------------
+
+Processing Image: MIMIC OSCURO LV3;SOD-SP010 (2).jpeg                  Number: 1027
+Extracted Name: MIMIC OSCURO LV-
+Expected Name: MIMIC OSCURO LV3
+
+Similarity Score between Extracted and Expected Name: 0.94
+Similarity is above the threshold of 0.7.
+
+The set code for this card is: SOD-SP
+The set associated with this card's code is: ALMA DEL DUELISTA
+
+Final prediction was INCORRECT for: Mimic Oscuro LV1, it should have been MIMIC OSCURO LV3
+ ------------------------------------------------------------------------------------
+
+Processing Image: SERVIDOR DE HORUS;SOD-SP016.jpeg                  Number: 1044
+Extracted Name: CTRL
+Expected Name: SERVIDOR DE HORUS
+
+Similarity Score between Extracted and Expected Name: 0.35
+Similarity is below the threshold of 0.7.
+
+The set code for this card is: SOD-SP
+The set associated with this card's code is: ALMA DEL DUELISTA
+
+Final prediction was INCORRECT for: Ectoplasmador, it should have been SERVIDOR DE HORUS
+ ------------------------------------------------------------------------------------
+
+Processing Image: CAMBIACARTA;STON-SP046.jpeg                  Number: 1051
+Extracted Name: GICA (2)
+Expected Name: CAMBIACARTA
+
+Similarity Score between Extracted and Expected Name: 0.27
+Similarity is below the threshold of 0.7.
+
+The set code for this card is: STON-SP
+The set associated with this card's code is: GOLPE DE NEOS
+
+Final prediction was INCORRECT for: PSÍQUICO ALIEN, it should have been CAMBIACARTA
+ ------------------------------------------------------------------------------------
+
+Processing Image: DE CAPA Y ESPADA;STON-SP059.jpeg                  Number: 1058
+Extracted Name: CAPA [CARTA D Fepama TRAMPA (
+Expected Name: DE CAPA Y ESPADA
+
+Similarity Score between Extracted and Expected Name: 0.47
+Similarity is below the threshold of 0.7.
+
+The set code for this card is: STON-SP
+The set associated with this card's code is: GOLPE DE NEOS
+
+Final prediction was INCORRECT for: LA PROFECÍA DE LA TRASMIGRACIÓN, it should have been DE CAPA Y ESPADA
+ ------------------------------------------------------------------------------------
+
+Processing Image: DESTELLO;STON-SP053.jpeg                  Number: 1059
+Extracted Name: DESTELLO CARTA ‘A DE : TRAMPA |
+Expected Name: DESTELLO
+
+Similarity Score between Extracted and Expected Name: 0.45
+Similarity is below the threshold of 0.7.
+
+The set code for this card is: STON-SP
+The set associated with this card's code is: GOLPE DE NEOS
+
+Final prediction was INCORRECT for: LA PROFECÍA DE LA TRASMIGRACIÓN, it should have been DESTELLO
+ ------------------------------------------------------------------------------------
+
+Processing Image: TORNADO;STON-SP042.jpeg                  Number: 1101
+Extracted Name: [ORNAD( \RTA MAGICA (3]
+Expected Name: TORNADO
+
+Similarity Score between Extracted and Expected Name: 0.33
+Similarity is below the threshold of 0.7.
+
+The set code for this card is: STON-SP
+The set associated with this card's code is: GOLPE DE NEOS
+
+Final prediction was INCORRECT for: ¡Tormenta Samurái Rápida!, it should have been TORNADO
+ ------------------------------------------------------------------------------------
+
+Processing Image: FESTIVAL DE LAS FICHAS;TLM-SP057.jpeg                  Number: 1131
+Extracted Name: CTRU
+Expected Name: FESTIVAL DE LAS FICHAS
+
+Similarity Score between Extracted and Expected Name: 0.30
+Similarity is below the threshold of 0.7.
+
+The set code for this card is: TLM-SP
+The set associated with this card's code is: EL MILENIO PERDIDO
+
+Final prediction was INCORRECT for: Control Cerebral, it should have been FESTIVAL DE LAS FICHAS
+ ------------------------------------------------------------------------------------
+
+Processing Image: GÓLEM DE MINA;TLM-SP018 (v2).jpeg                  Number: 1137
+Extracted Name: GOLE  MINA
+Expected Name: GÓLEM DE MINA
+
+Similarity Score between Extracted and Expected Name: 0.87
+Similarity is above the threshold of 0.7.
+
+The set code for this card is: TLM-SP
+The set associated with this card's code is: EL MILENIO PERDIDO
+
+Final prediction was INCORRECT for: GOLEM DE MINA, it should have been GÓLEM DE MINA
+ ------------------------------------------------------------------------------------
+
+Processing Image: GÓLEM DE MINA;TLM-SP018.jpeg                  Number: 1138
+Extracted Name: JOLEM  MINA
+Expected Name: GÓLEM DE MINA
+
+Similarity Score between Extracted and Expected Name: 0.83
+Similarity is above the threshold of 0.7.
+
+The set code for this card is: TLM-SP
+The set associated with this card's code is: EL MILENIO PERDIDO
+
+Final prediction was INCORRECT for: GOLEM DE MINA, it should have been GÓLEM DE MINA
+ ------------------------------------------------------------------------------------
+
+Processing Image: GÓLEM DUMMY;TLM-SP016.jpeg                  Number: 1139
+Extracted Name: GOIEM DiivmMmy
+Expected Name: GÓLEM DUMMY
+
+Similarity Score between Extracted and Expected Name: 0.72
+Similarity is above the threshold of 0.7.
+
+The set code for this card is: TLM-SP
+The set associated with this card's code is: EL MILENIO PERDIDO
+
+Final prediction was INCORRECT for: Golem Dummy, it should have been GÓLEM DUMMY
+ ------------------------------------------------------------------------------------
+
+Processing Image: SEÑAL DE HÉROE;TLM-SP049.jpeg                  Number: 1154
+Extracted Name: SENAL 9)3 [ CARTA HEROE A DE ] . TRAMPA |
+Expected Name: SEÑAL DE HÉROE
+
+Similarity Score between Extracted and Expected Name: 0.46
+Similarity is below the threshold of 0.7.
+
+The set code for this card is: TLM-SP
+The set associated with this card's code is: EL MILENIO PERDIDO
+
+Final prediction was INCORRECT for: Aussa la Encantadora de la Tierra, it should have been SEÑAL DE HÉROE
+ ------------------------------------------------------------------------------------
+
+Processing Image: SOLDADO DE MECANISMO ANTIGUO;TLM-SP008.jpeg                  Number: 1155
+Extracted Name: S0InADO MECANISMO ANTIGU
+Expected Name: SOLDADO DE MECANISMO ANTIGUO
+
+Similarity Score between Extracted and Expected Name: 0.82
+Similarity is above the threshold of 0.7.
+
+The set code for this card is: TLM-SP
+The set associated with this card's code is: EL MILENIO PERDIDO
+
+Final prediction was INCORRECT for: Bestia de Mecanismo Antiguo, it should have been SOLDADO DE MECANISMO ANTIGUO
+ ------------------------------------------------------------------------------------
+
+Processing Image: DRAGÓN DEL BRILLO #2;YSD-SP003 (2).jpeg                  Number: 1166
+Extracted Name: DRAGON DEL BRILLO#
+Expected Name: DRAGÓN DEL BRILLO #2
+
+Similarity Score between Extracted and Expected Name: 0.91
+Similarity is above the threshold of 0.7.
+
+The set code for this card is: YSD-SP
+The set associated with this card's code is: STARTER DECK 2006
+
+Final prediction was INCORRECT for: DRAGÓN DEL BRILLO, it should have been DRAGÓN DEL BRILLO #2
+ ------------------------------------------------------------------------------------
+
+Processing Image: DRAGÓN DEL BRILLO #2;YSD-SP003 (3).jpeg                  Number: 1167
+Extracted Name: DRAGON DEL Rruuio#?
+Expected Name: DRAGÓN DEL BRILLO #2
+
+Similarity Score between Extracted and Expected Name: 0.72
+Similarity is above the threshold of 0.7.
+
+The set code for this card is: YSD-SP
+The set associated with this card's code is: STARTER DECK 2006
+
+Final prediction was INCORRECT for: DRAGÓN DEL BRILLO, it should have been DRAGÓN DEL BRILLO #2
+ ------------------------------------------------------------------------------------
+
+Processing Image: ESQUELETÁNGEL;YSD-SP011 (3).jpeg                  Number: 1176
+Extracted Name: EenATIior T A N
+Expected Name: ESQUELETÁNGEL
+
+Similarity Score between Extracted and Expected Name: 0.39
+Similarity is below the threshold of 0.7.
+
+The set code for this card is: YSD-SP
+The set associated with this card's code is: STARTER DECK 2006
+
+Final prediction was INCORRECT for: HÉROE ELEMENTAL AVIAN, it should have been ESQUELETÁNGEL
+ ------------------------------------------------------------------------------------
+
+Processing Image: REFUERZOS;YSD-SP032.jpeg                  Number: 1209
+Extracted Name: REEFIIER7OC [ CARTA DE’ [RAMPA |
+Expected Name: REFUERZOS
+
+Similarity Score between Extracted and Expected Name: 0.42
+Similarity is below the threshold of 0.7.
+
+The set code for this card is: YSD-SP
+The set associated with this card's code is: STARTER DECK 2006
+
+Final prediction was INCORRECT for: GUERRERO DE ZERA, it should have been REFUERZOS
+ ------------------------------------------------------------------------------------
+

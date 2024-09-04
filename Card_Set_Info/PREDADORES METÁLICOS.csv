@@ -1,0 +1,94 @@
+Passcode$Name$Status$Attribute$type$link$link_arrows$rank$pendulum_scale$level$attack$defense$spell_attribute$summoning_condition$pendulum_condition$card_text$card_supports$card_anti_supports$card_actions$effect_types$
+87796900$Dragón Alado Guardián de la Fortaleza #1$Unlimited$VIENTO$[Dragón/Normal]$$$$$Nivel 4$1400$1200$$$$Un dragón que normalmente se encuentra cuidando las fortalezas de la montaña. Su ataque característico es un violento descenso en picado desde el cielo.$$$$$
+15480588$Lagarto Acorazado$Unlimited$TIERRA$[Reptil/Normal]$$$$$Nivel 4$1500$1200$$$$Un lagarto con una piel muy dura y un mordisco peligroso.$$$$$
+87756343$Larva de Moth$Unlimited$TIERRA$[Insecto/Efecto]$$$$$Nivel 2$500$400$$$$Este monstruo no puede ser Invocado mediante una Invocación Normal o Colocado. Esta carta solo puede ser Invocada mediante una Invocación Especial ofreciendo "Petit Moth" como Sacrifício en el 2º de tus turnos despues de que "Petit Moth" haya sido equipado con el "Capullo Evolutivo".$Petit Moth/Cocoon of Evolution$$Tributes for cost$Summon$
+40240595$Capullo Evolutivo$Unlimited$TIERRA$[Insecto/Efecto]$$$$$Nivel 3$0$2000$$$$Puedes seleccionar 1 "Petit Moth" que controles; equipa esta carta en tu mano a ese objetivo. Mientras esté equipada por este efecto, el ATK/DEF originales de ese "Petit Moth" se convierten en el ATK/DEF de "Capullo Evolutivo".$Petit Moth$$Activates from your hand/Equips self from hand$Ignition/Continuous-like$
+20277860$Zombi Acorazado$Unlimited$OSCURIDAD$[Zombi/Normal]$$$$$Nivel 3$1500$0$$$$Este guerrero esgrime a ciegas una hoja mortal con fuerza devastadora.$$$$$
+28933734$Máscara de la Oscuridad$Unlimited$OSCURIDAD$[Demonio/Volteo/Efecto]$$$$$Nivel 2$900$400$$$$VOLTEO: Selecciona 1 Trampa en tu Cementerio; añade ese objetivo a tu mano.$$$Activates upon being flipped face-up/Adds from Graveyard to hand$Flip$
+16972957$Doma el Ángel del Silencio$Unlimited$OSCURIDAD$[Hada/Normal]$$$$$Nivel 5$1600$1400$$$$Esta hada rige sobre el fin de la existencia.$$$$$
+15150365$Sombrero Mágico Blanco$Unlimited$LUZ$[Lanzador de Conjuros/Efecto]$$$$$Nivel 3$1000$700$$$$Cuando esta carta inflige daño de batalla a los Life Points de tu adversario, tu adversario descarta 1 carta al azar de su mano.$$$Activates when it inflicts battle damage/Your opponent discards$Trigger$
+19066538$Serpiente Marina Rugiente$Unlimited$AGUA$[Aqua/Fusión]$$$$$Nivel 6$2100$1800$$$$"Lámpara Mística" + "Hyosube"$$$$$
+02483611$Omolics de Agua$Unlimited$AGUA$[Aqua/Normal]$$$$$Nivel 4$1400$1200$$$$Transforma el agua rebosante de una jarra en dragones atacantes.$$$$$
+58314394$Asaltante de Tierra Bugroth$Unlimited$TIERRA$[Máquina/Normal]$$$$$Nivel 4$1500$1000$$$$Un robot de batalla de superficie que fue usado una vez en guerra maritima.$$$$$
+25955164$Sanga del Trueno$Unlimited$LUZ$[Trueno/Efecto]$$$$$Nivel 7$2600$2200$$$$Una vez mientras esté boca arriba en el Campo, durante el cálculo de daño en el turno de tu adversario, si esta carta está siendo atacada (Efecto Rápido): puedes seleccionar el monstruo atacante; haz que el ATK de ese objetivo sea 0 sólo durante el cálculo de daño.$$$$Quick/Condition$
+13599884$Escorpión de Acero$Unlimited$TIERRA$[Máquina/Efecto]$$$$$Nivel 1$250$300$$$$Un monstruo que no sea del Tipo Máquina atacando al "Escorpión de Acero" será destruido en la End Phase del 2º turno de tu adversario después del ataque.$$$$Trigger$
+86088138$Ocubeam$Unlimited$LUZ$[Hada/Normal]$$$$$Nivel 5$1550$1650$$$$De aspecto horripilante, esta criatura usa sus grandes ojos y orejas para registrar cualquier movimiento.$$$$$
+31560081$Mago de la Fe$Unlimited$LUZ$[Lanzador de Conjuros/Volteo/Efecto]$$$$$Nivel 1$300$400$$$$VOLTEO: Selecciona 1 Mágica en tu Cementerio; añade ese objetivo a tu mano.$Spell Card$$Returns from Graveyard to hand$Flip$
+28593363$Tiburón de Mar Profundo$Unlimited$AGUA$[Pez/Fusión]$$$$$Nivel 5$1900$1600$$$$"Morador del Fondo" + "Tongyo"$$$$$
+21347810$Flor del Arco Iris$Unlimited$TIERRA$[Planta/Efecto]$$$$$Nivel 2$400$500$$$$Este monstruo puede atacar directamente los Life Points de tu adversario.$$$$Continuous$
+55784832$Morinphen$Unlimited$OSCURIDAD$[Demonio/Normal]$$$$$Nivel 5$1550$1300$$$$Un extraño demónio con largos brazos y garras afiladas como cuchillas.$$$$$
+15237615$Juez Emperatriz$Unlimited$TIERRA$[Guerrero/Fusión]$$$$$Nivel 6$2100$1700$$$$"El Doble de la Reina" + "Hibikime"$$$$$
+05901497$El Doble de la Reina$Unlimited$TIERRA$[Guerrero/Efecto]$$$$$Nivel 1$350$300$$$$Este monstruo puede atacar directamente los Life Points de tu adversario.$$$$Continuous$
+79759861$Sacrificio a los Condenados$Unlimited$MÁGICA$$$$$$$$$$$$Descarta 1 carta, y después selecciona 1 monstruo en el Campo; destrúyelo.$$$Discards for cost$Cost/Effect$
+05758500$Liberación del Alma$Unlimited$MÁGICA$$$$$$$$$$$$Selecciona hasta 5 cartas en cualquier Cementerio; destiérralas.$$$$Effect$
+41142615$El Ataúd Risueño$Unlimited$MÁGICA$$$$$$$$$$$$Descarta hasta 3 Cartas de Monstruo de tu mano al Cementerio.$$$Discards for effect/You discard$Effect$
+04031928$Cambio de Fidelidad$Unlimited(OCG)$MÁGICA$$$$$$$$$$$$Selecciona 1 monstruo que controle tu adversario; toma el control de éste hasta la End Phase.$$$Changes control$Effect$
+87564352$Dragón de Fuego de la Tierra Negra$Unlimited$OSCURIDAD$[Dragón/Normal]$$$$$Nivel 4$1500$800$$$$Un dragón que mora en las profundidades de la oscuridad, su vulnerabilidad reside en su pobre visión.$$$$$
+40453765$Guardián de Batalla del Pantano$Unlimited$TIERRA$[Guerrero/Efecto]$$$$$Nivel 5$1800$1500$$$$(Esta carta se trata siempre como una carta "Escolta de Batalla", pero no como una carta "Guardián").Gana 500 ATK por cada "Guardián de Batalla de Lava" que controles.$Lava Battleguard$$$Continuous$
+66602787$Saggi el Payaso Oscuro$Unlimited$OSCURIDAD$[Lanzador de Conjuros/Normal]$$$$$Nivel 3$600$1500$$$$Este payaso aparece de la nada y realiza movimientos muy extraños para evitar los ataques enemigos.$$$$$
+14141448$Gran Moth$Unlimited$TIERRA$[Insecto/Efecto]$$$$$Nivel 8$2600$2500$$$$Esta carta no puede ser Invocada mediante una Invocación Normal o Colocada. Esta carta sólo puede ser Invocada mediante una Invocación Especial Sacrificando "Petit Moth" en el 4º de tus turnos después de que "Petit Moth" haya sido equipado con el "Capullo Evolutivo".$Petit Moth/Cocoon of Evolution$$Tributes for cost$Summon$
+14851496$Medusa$Unlimited$AGUA$[Aqua/Normal]$$$$$Nivel 4$1200$1500$$$$Una medusa semi transparente, casi invisible, que vaga a la deriva en el mar.$$$$$
+00062121$Castillo de las Ilusiones Oscuras$Unlimited$OSCURIDAD$[Demonio/Volteo/Efecto]$$$$$Nivel 4$920$1930$$$$VOLTEO: Aumenta el ATK y la DEF de todos los monstuos de Tipo Zombi en 200 puntos. Mientras esta carta permanezca boca arriba en el Campo, el ATK y la DEF de los monstrus Tipo Zombi continúa aumentando en 200 puntos durante cada una de tus Standby Phases. Este efecto continúa hasta el 4º turno despues de la activación de esta carta.$Zombie$$Activates upon being flipped face-up$Flip/Continuous/Condition$
+68516705$Jinete Místico$Unlimited$TIERRA$[Bestia/Normal]$$$$$Nivel 4$1300$1550$$$$Mitad hombre y mitad caballo, este monstruo es bien conocido por su gran velocidad.$$$$$
+93889755$Payaso Grosero$Unlimited$OSCURIDAD$[Demonio/Efecto]$$$$$Nivel 4$1350$1400$$$$Si esta carta en Posición de Defensa es cambiada a Posición de Ataque: selecciona 1 monstruo que controle tu adversario; devuelve ese objetivo a la mano.$$$Activates if battle positions change/Returns from field to hand$Trigger$
+29155212$Pumpking el Rey de los Fantasmas$Unlimited$OSCURIDAD$[Zombi/Efecto]$$$$$Nivel 6$1800$2000$$$$Si "Castillo de las Ilusiones Oscuras" está boca arriba en el Campo, aumenta el ATK y la DEF de esta carta en 100 puntos. Mientras este "Castillo de las Ilusiones Oscuras" permanezca boca arriba en el Campo, el ATK y la DEF de esta carta continúa aumentando en 100 puntos durante cada una de tus Standby Phases. Este efecto continúa hasta tu 4º turno después de que esta carta sea activada.$Castle of Dark Illusions$$$Continuous$
+13215230$Payaso del Sueño$Unlimited$TIERRA$[Guerrero/Efecto]$$$$$Nivel 3$1200$900$$$$Si esta carta en Posición de Ataque es cambiada a Posición de Defensa boca arriba: selecciona 1 monstruo que controle tu adversario; destruye ese objetivo.$$$Activates if battle positions change$Trigger$
+28725004$Sabiduría Manchada$Unlimited$OSCURIDAD$[Demonio/Efecto]$$$$$Nivel 3$1250$800$$$$Si esta carta en Posición de Ataque es cambiada a Posición de Defensa boca arriba: baraja tu Deck.$$$Activates if battle positions change/Changes the player's Deck order$Trigger$
+89272878$Guardián del Laberinto$Unlimited$TIERRA$[Guerrero/Normal]$$$$$Nivel 4$1000$1200$$$$Un monstruo que vigila la entrada al Mundo Inferior.$$$$$
+00549481$Rata de la Prevención$Unlimited$TIERRA$[Bestia/Normal]$$$$$Nivel 4$500$2000$$$$Esta criatura esta escudada por una gruesa piel de pelo y es excelente defendiendose a si misma.$$$$$
+25109950$El Pequeño Espadachín de Aile$Unlimited$AGUA$[Guerrero/Efecto]$$$$$Nivel 3$800$1300$$$$Ofrece 1 monstruo en tu Campo como Sacrifício para aumentar el ATK de este monstruo en 700 puntos hasta el final del turno.$$$Tributes for cost$Ignition$
+51371017$Princesa de Tsurugi$Unlimited$VIENTO$[Guerrero/Volteo/Efecto]$$$$$Nivel 3$900$700$$$$VOLTEO: Inflige 500 puntos de daño a los Life Points de tu adversario por cada Carta Mágica y de Trampa en el Campo de tu adversario.$$$Activates upon being flipped face-up$Flip$
+10071456$Protector del Trono$Unlimited$TIERRA$[Guerrero/Normal]$$$$$Nivel 4$800$1500$$$$Mientras el rey esta ausente, la reina protege el trono con una poderosa defensa.$$$$$
+99551425$Tanque Laberinto$Unlimited$OSCURIDAD$[Máquina/Fusión]$$$$$Nivel 7$2400$2400$$$$"Lobo Giga-Tecnológico" + "Soldado Cañón"$$$$$
+24611934$Ryu-Kishin Energizado$Unlimited$OSCURIDAD$[Demonio/Normal]$$$$$Nivel 4$1600$1200$$$$Una gárgola mejorada por los poderes de la oscuridad. Sus talones muy afilados la convierten en un valioso adversario.$$$$$
+51828629$Giltia el Caballero D.$Unlimited$LUZ$[Guerrero/Fusión]$$$$$Nivel 5$1850$1500$$$$"Guardián del Laberinto" + "Protector del Trono"$$$$$
+23771716$Pez de 7 Colores$Unlimited$AGUA$[Pez/Normal]$$$$$Nivel 4$1800$800$$$$Un raro pez color arco iris que nunca ha sido atrapado por hombres mortales.$$$$$
+84926738$El Inmortal del Trueno$Unlimited$LUZ$[Trueno/Volteo/Efecto]$$$$$Nivel 4$1500$1300$$$$VOLTEO: Aumenta tus Life Points en 3000. Cuando esta carta es mandada del Campo al Cementerio, pierdes 5000 Life Points.$$$Activates upon being flipped face-up$Flip/Trigger$
+74703140$Águila Castigada$Unlimited$VIENTO$[Bestia Alada/Fusión]$$$$$Nivel 6$2100$1800$$$$"Corona Alada Azul" + "Niwatori"$$$$$
+07019529$Soldados Insectos del Cielo$Unlimited$VIENTO$[Insecto/Efecto]$$$$$Nivel 3$1000$800$$$$Cuando esta carta ataca a un monstruo de VIENTO el ATK de esta carta Aumenta en 1000 puntos solo durante el Damage Step.$$WIND$$Continuous$
+67629977$Hoshiningen$Unlimited$LUZ$[Hada/Efecto]$$$$$Nivel 2$500$700$$$$Mientras esta carta permanezca boca arriba en el Campo, aumenta el ATK de todos los monstruos de LUZ en 500 puntos y disminuye el ATK de todos los monstruos de OSCURIDAD en 400 puntos.$LIGHT$DARK$$Continuous$
+56907389$Rey Músico$Unlimited$LUZ$[Lanzador de Conjuros/Fusión]$$$$$Nivel 5$1750$1500$$$$"Bruja del Bosque Negro" + "Dama de la Fé"$$$$$
+11384280$Soldado Cañón$Forbidden(OCG)$OSCURIDAD$[Máquina/Efecto]$$$$$Nivel 4$1400$1300$$$$Sacrifica 1 monstruo en tu Campo para infligir 500 puntos de daño a los Life Points de tu adversario.$$$Tributes for cost$Ignition$
+71107816$El Carnicero del Bistró$Unlimited$OSCURIDAD$[Demonio/Efecto]$$$$$Nivel 4$1800$1000$$$$Cuando esta carta inflige daño de batalla en los Life Points de tu adversario, tu adversario roba 2 cartas de su Deck.$$$Activates when it inflicts battle damage/Your opponent draws cards$Trigger$
+93900406$Hombre Seta #2$Unlimited$TIERRA$[Guerrero/Efecto]$$$$$Nivel 3$1250$800$$$$Inflige 300 puntos de daño a los Life Points del controlador de esta carta durante cada una de sus Standby Phases. Si el controlador paga 500 Life Points en su End Phase, el control de esta carta cambia a su oponente.$$$Changes control$Trigger$
+78010363$Bruja del Bosque Negro$Unlimited$OSCURIDAD$[Lanzador de Conjuros/Efecto]$$$$$Nivel 4$1100$1200$$$$Si esta carta es mandada del Campo al Cementerio: añade a tu mano 1 monstruo con 1500 DEF o menos en tu Deck, pero por el resto de este turno no puedes activar cartas, o efectos de cartas, con ese nombre. Sólo puedes usar este efecto de "Bruja del Bosque Negro" una vez por turno.$$$Adds from Deck to hand/Activates from your Graveyard$Trigger/Condition$
+68658728$Pequeña Quimera$Unlimited$FUEGO$[Bestia/Efecto]$$$$$Nivel 2$600$550$$$$Todos los monstruos de FUEGO en el Campo ganan 500 ATK. Todos los monstruos de AGUA en el Campo pierden 400 ATK.$FIRE$WATER$$Continuous$
+17358176$Dama de la Fe$Unlimited$LUZ$[Lanzador de Conjuros/Normal]$$$$$Nivel 3$1100$800$$$$Calma las almas de los demás entonando un misterioso hechizo.$$$$$
+54752875$Dragón de Trueno de Cabezas Gemelas$Unlimited$LUZ$[Trueno/Fusión]$$$$$Nivel 7$2800$2100$$$$"Dragón de Trueno" + "Dragón de Trueno"$$$$$
+80741828$Aprendiz de Bruja$Unlimited$OSCURIDAD$[Lanzador de Conjuros/Efecto]$$$$$Nivel 2$550$500$$$$Mientras esta carta permanezca boca arriba en el Campo, aumenta el ATK de todos los monstruos de OSCURIDAD en 500 puntos y disminuye el ATK de todos los monstruos de LUZ en 400 puntos.$DARK$LIGHT$$Continuous$
+41396436$Corona Alada Azul$Unlimited$VIENTO$[Bestia Alada/Normal]$$$$$Nivel 4$1600$1200$$$$Con el pelo en forma de corona y un cuerpo envuelto en llamas blanco-azuladas, este pájaro es una espléndida visión.$$$$$
+05818798$Gazelle el Rey de las Bestias Míticas$Unlimited$TIERRA$[Bestia/Normal]$$$$$Nivel 4$1500$1200$$$$Este monstruo se mueve tan deprisa que parece una ilusión a los ojos mortales.(Esta carta se trata siempre como una carta "Bestia Fantasma").$$$$$
+77414722$Disruptor Mágico$Unlimited$TRAMPA$$$$$$$$$Contraefecto$$$Cuando una Carta Mágica es activada: descarta 1 carta; niega la activación y, si lo haces, destrúyela.$$$Discards for cost$Activation requirement/Cost/Effect$
+03819470$Siete Herramientas del Bandido$Unlimited$TRAMPA$$$$$$$$$Contraefecto$$$Cuando una Carta de Trampa es activada: paga 1000 LP; niega la activación y, si lo haces, destrúyela.$$$$Activation requirement/Cost/Effect$
+98069388$Cuerno de los Cielos$Unlimited$TRAMPA$$$$$$$$$Contraefecto$$$Cuando uno o más monstruos fueran a ser Invocados: Sacrifica 1 monstruo; niega la Invocación y, si lo haces, destruye los monstruos que hayas invocado.$$$Tributes for cost$Activation requirement/Cost/Effect$
+98495314$Espada del Asentamiento Profundo$Unlimited$MÁGICA$$$$$$$$$Equipo$$$El monstruo equipado gana 500 ATK/DEF. Si esta carta es mandada a tu Cementerio: ponla en la parte superior de tu Deck.$$$Returns itself from Graveyard to Deck/Activates from your Graveyard$Continuous-like/Trigger-like$
+25880422$Bloquear Ataque$Unlimited$MÁGICA$$$$$$$$$$$$Selecciona 1 monstruo boca arriba en Posición de Ataque que controle tu adversario; cambia ese objetivo a Posición de Defensa boca arriba.$$$Changes battle positions$Effect$
+51275027$La Dama Infeliz$Unlimited$LUZ$[Lanzador de Conjuros/Efecto]$$$$$Nivel 1$0$100$$$$Cuando esta carta es mandada al Cementerio como resultado de una batalla, la Battle Phase de ese turno termina inmediatamente.$$$Activates if destroyed by battle/Activates from your Graveyard/Ends the Battle Phase$Trigger$
+24668830$Infección de Germenes$Unlimited$MÁGICA$$$$$$$$$Equipo$$$El ATK de un monstruo que no sea del Tipo Máquina equipado con esta carta disminuye en 300 puntos en cada una de tus Standby Phases.$$$$Continuous-like$
+44095762$Fuerza de Espejo$Unlimited$TRAMPA$$$$$$$$$$$$Cuando un monstruo del adversario declara un ataque: destruye todos los monstruos en Posición de Ataque de tu adversario.$$$Activates upon attack declaration$Activation requirement/Effect$
+20436034$Anillo del Magnetismo$Unlimited$MÁGICA$$$$$$$$$Equipo$$$Esta carta sólo se puede equipar a un monstruo en tu Campo. El monstruo equipado con esta carta disminuye su ATK y DEF en 500 puntos. Todos los monstuos en el Campo de tu adversario deben atacar al monstruo equipado con esta carta si eligen atacar.$$$$Condition/Continuous-like$
+56830749$Compartir el Dolor$Unlimited$MÁGICA$$$$$$$$$$$$Sacrifica 1 monstruo; haz que tu adversario Sacrifique 1 monstruo (esto no causa ningún efecto).$$$Tributes opponent's monsters/Tributes as an effect/Tributes for cost$Cost/Effect$
+41462083$Dragón Milenario$Unlimited$VIENTO$[Dragón/Fusión]$$$$$Nivel 7$2400$2000$$$$"Mago del Tiempo" + "Bebé Dragón"$$$$$
+80141480$ARAÑA CAZADORA$
+87322377$ARAÑA LANZADORA$
+09653271$ATAQUE KAMINARI$
+21263083$BESTIA PÁLIDA$
+25655502$BICKURIBOX$
+89112729$CIBER-SAURIO$
+46918794$FUEGO TREMENDO$
+73481154$GOLEM DE DESTRUCTOR$
+16768387$GRAN OJO$
+20394040$GUARDIÁN DE BATALLA DE LAVA$
+18246479$GUÍA DE BATALLA$
+64501875$HIBIKIME$
+02118022$HYOSUBE$
+94773007$JIRAI GUMO$
+51275027$LA DAMA INFELIZ$
+55875323$LAGARTO ELÉCTRICO$
+08471389$LOBO GIGA-TECNOLÓGICO$
+21817254$MEGA BOLA DE TRUENO$
+81386177$MORADOR DEL FONDO$
+07805359$NIWATORI$
+58192742$PETIT MOTH$
+$ESTIMU-PACK$
+$TRENT$

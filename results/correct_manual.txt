@@ -1,0 +1,2310 @@
+
+Processing Image: ALIGERAR LA CARTA;RDS-SP047.jpeg                  Number: 1
+Extracted Tuple: ('ALIGERAR LA CARTA', 'RDS-SP047', '231848')
+
+Extracted Name: ALIGERAR LA CARTA
+Expected Name: ALIGERAR LA CARTA
+
+Similarity Score between Extracted and Expected Name: 1.00
+Similarity is above the threshold of 0.7.
+
+Predicted set is: AUGE DEL DESTINO
+The set associated with this card's code is: AUGE DEL DESTINO
+Predicted card is: Aligerar la Carta
+-----------------------------------------------------------------------------------------
+
+
+Processing Image: BIO-MAGE;LON-043.jpeg                  Number: 2
+Extracted Tuple: ('BIO-MAGE', 'LON-043', '5869%0829')
+
+Extracted Name: BIO-MAGE
+Expected Name: BIO-MAGE
+
+Similarity Score between Extracted and Expected Name: 1.00
+Similarity is above the threshold of 0.7.
+
+Predicted set is: LABYRINTH OF NIGHTMARE
+The set associated with this card's code is: LABYRINTH OF NIGHTMARE
+Predicted card is: Bio-Mage
+-----------------------------------------------------------------------------------------
+
+
+Processing Image: BONEHEIMER;LON-057.jpeg                  Number: 3
+Extracted Tuple: ('BONEHEIMER', 'LON-057', '98456117')
+
+Extracted Name: BONEHEIMER
+Expected Name: BONEHEIMER
+
+Similarity Score between Extracted and Expected Name: 1.00
+Similarity is above the threshold of 0.7.
+
+Predicted set is: LABYRINTH OF NIGHTMARE
+The set associated with this card's code is: LABYRINTH OF NIGHTMARE
+Predicted card is: Boneheimer
+-----------------------------------------------------------------------------------------
+
+
+Processing Image: BUENA ADMINISTRACIÓN DEL HOGAR GOBLIN;FET-SP054.jpeg                  Number: 4
+Extracted Tuple: ('BUENA ADMINISTRACIÓN DEL HOGAR GOBLIN', 'FET-SPOS4', '09744376')
+
+Extracted Name: BUENA ADMINISTRACIÓN DEL HOGAR GOBLIN
+Expected Name: BUENA ADMINISTRACIÓN DEL HOGAR GOBLIN
+
+Similarity Score between Extracted and Expected Name: 1.00
+Similarity is above the threshold of 0.7.
+
+Predicted set is: ETERNIDAD LLAMEANTE
+The set associated with this card's code is: ETERNIDAD LLAMEANTE
+Predicted card is: Buena Administración del Hogar Goblin
+-----------------------------------------------------------------------------------------
+
+
+Processing Image: CABALLERO INSECTO;FET-SP004(slight_tilt).jpeg                  Number: 5
+Extracted Tuple: ('FCABALLER01NSE(1T?', 'FET-SP004 _', '35052053')
+
+Extracted Name: FCABALLER01NSE(1T?
+Expected Name: CABALLERO INSECTO
+
+Similarity Score between Extracted and Expected Name: 0.69
+Similarity is below the threshold of 0.7.
+
+Predicted set is: ETERNIDAD LLAMEANTE
+The set associated with this card's code is: ETERNIDAD LLAMEANTE
+Predicted card is: Caballero Insecto
+-----------------------------------------------------------------------------------------
+
+
+Processing Image: CABALLERO INSECTO;FET-SP004.jpeg                  Number: 6
+Extracted Tuple: ('CABALLERO INSECTO', 'FET-SPOO4', '35052053')
+
+Extracted Name: CABALLERO INSECTO
+Expected Name: CABALLERO INSECTO
+
+Similarity Score between Extracted and Expected Name: 1.00
+Similarity is above the threshold of 0.7.
+
+Predicted set is: ETERNIDAD LLAMEANTE
+The set associated with this card's code is: ETERNIDAD LLAMEANTE
+Predicted card is: Caballero Insecto
+-----------------------------------------------------------------------------------------
+
+
+Processing Image: CHICA ARPÍA;RDS-SP004.jpeg                  Number: 7
+Extracted Tuple: ('CHICA ARPÍA', 'RDS-SP004', '34100324')
+
+Extracted Name: CHICA ARPÍA
+Expected Name: CHICA ARPÍA
+
+Similarity Score between Extracted and Expected Name: 1.00
+Similarity is above the threshold of 0.7.
+
+Predicted set is: AUGE DEL DESTINO
+The set associated with this card's code is: AUGE DEL DESTINO
+Predicted card is: CHICA ARPÍA
+-----------------------------------------------------------------------------------------
+
+
+Processing Image: COMPLETAR EL CONTRATO;FET-SP046.jpeg                  Number: 8
+Extracted Tuple: ('COMPLETAR EL CONTRATO', 'FET-SPO46', '206769')
+
+Extracted Name: COMPLETAR EL CONTRATO
+Expected Name: COMPLETAR EL CONTRATO
+
+Similarity Score between Extracted and Expected Name: 1.00
+Similarity is above the threshold of 0.7.
+
+Predicted set is: ETERNIDAD LLAMEANTE
+The set associated with this card's code is: ETERNIDAD LLAMEANTE
+Predicted card is: Completar el Contrato
+-----------------------------------------------------------------------------------------
+
+
+Processing Image: CURE MERMAID;LON-041(slight_tilt).jpeg                  Number: 9
+Extracted Tuple: ('CURE Menpya o', 'LON-047', '85%;—')
+
+Extracted Name: CURE Menpya o
+Expected Name: CURE MERMAID
+
+Similarity Score between Extracted and Expected Name: 0.64
+Similarity is below the threshold of 0.7.
+
+Predicted set is: LABYRINTH OF NIGHTMARE
+The set associated with this card's code is: LABYRINTH OF NIGHTMARE
+Predicted card is: Cure Mermaid
+-----------------------------------------------------------------------------------------
+
+
+Processing Image: CURE MERMAID;LON-041.jpeg                  Number: 10
+Extracted Tuple: ('CURE MERMAID', 'LON-041', '85802526')
+
+Extracted Name: CURE MERMAID
+Expected Name: CURE MERMAID
+
+Similarity Score between Extracted and Expected Name: 1.00
+Similarity is above the threshold of 0.7.
+
+Predicted set is: LABYRINTH OF NIGHTMARE
+The set associated with this card's code is: LABYRINTH OF NIGHTMARE
+Predicted card is: Cure Mermaid
+-----------------------------------------------------------------------------------------
+
+
+Processing Image: DEAL OF PHANTOM;LON-084.jpeg                  Number: 11
+Extracted Tuple: ('DEAL OF PHANTOM', 'LON-084', '69 122763')
+
+Extracted Name: DEAL OF PHANTOM
+Expected Name: DEAL OF PHANTOM
+
+Similarity Score between Extracted and Expected Name: 1.00
+Similarity is above the threshold of 0.7.
+
+Predicted set is: LABYRINTH OF NIGHTMARE
+The set associated with this card's code is: LABYRINTH OF NIGHTMARE
+Predicted card is: Deal of Phantom
+-----------------------------------------------------------------------------------------
+
+
+Processing Image: DUENDECILLA DE LA LLAMA ENFURECIDA;RDS-SP020.jpeg                  Number: 12
+Extracted Tuple: ('DUENDECILLA DE LA LLAMA ENFURECIDA', 'RDS-SPO20', '90810762')
+
+Extracted Name: DUENDECILLA DE LA LLAMA ENFURECIDA
+Expected Name: DUENDECILLA DE LA LLAMA ENFURECIDA
+
+Similarity Score between Extracted and Expected Name: 1.00
+Similarity is above the threshold of 0.7.
+
+Predicted set is: AUGE DEL DESTINO
+The set associated with this card's code is: AUGE DEL DESTINO
+Predicted card is: DUENDECILLA DE LA LLAMA ENFURECIDA
+-----------------------------------------------------------------------------------------
+
+
+Processing Image: EMPRESS MANTIS;LON-040.jpeg                  Number: 13
+Extracted Tuple: ('EMPRESS MANTIS', 'LON-040', '58818411')
+
+Extracted Name: EMPRESS MANTIS
+Expected Name: EMPRESS MANTIS
+
+Similarity Score between Extracted and Expected Name: 1.00
+Similarity is above the threshold of 0.7.
+
+Predicted set is: LABYRINTH OF NIGHTMARE
+The set associated with this card's code is: LABYRINTH OF NIGHTMARE
+Predicted card is: Empress Mantis
+-----------------------------------------------------------------------------------------
+
+
+Processing Image: FLAME DANCER;LON-058.jpeg                  Number: 14
+Extracted Tuple: ('FLAME DANCER', 'LON-058', '12883044')
+
+Extracted Name: FLAME DANCER
+Expected Name: FLAME DANCER
+
+Similarity Score between Extracted and Expected Name: 1.00
+Similarity is above the threshold of 0.7.
+
+Predicted set is: LABYRINTH OF NIGHTMARE
+The set associated with this card's code is: LABYRINTH OF NIGHTMARE
+Predicted card is: Flame Dancer
+-----------------------------------------------------------------------------------------
+
+
+Processing Image: FUH-RIN-KA-ZHAN;RDS-SP055.jpeg                  Number: 15
+Extracted Tuple: ('FUH-RIN-KA-ZAN', 'RDS-SPOSS5', '01781310')
+
+Extracted Name: FUH-RIN-KA-ZAN
+Expected Name: FUH-RIN-KA-ZHAN
+
+Similarity Score between Extracted and Expected Name: 0.97
+Similarity is above the threshold of 0.7.
+
+Predicted set is: AUGE DEL DESTINO
+The set associated with this card's code is: AUGE DEL DESTINO
+Predicted card is: FUH-RIN-KA-ZHAN
+-----------------------------------------------------------------------------------------
+
+
+Processing Image: GOBERNANTE DE LAS LLAMAS;FET-SP031.jpeg                  Number: 16
+Extracted Tuple: ('GOBERNANTE DE LAS LLAMAS', 'FET-SPO31', '41089128')
+
+Extracted Name: GOBERNANTE DE LAS LLAMAS
+Expected Name: GOBERNANTE DE LAS LLAMAS
+
+Similarity Score between Extracted and Expected Name: 1.00
+Similarity is above the threshold of 0.7.
+
+Predicted set is: ETERNIDAD LLAMEANTE
+The set associated with this card's code is: ETERNIDAD LLAMEANTE
+Predicted card is: GOBERNANTE DE LAS LLAMAS
+-----------------------------------------------------------------------------------------
+
+
+Processing Image: GOLEM CENTINELA;FET-SP025.jpeg                  Number: 17
+Extracted Tuple: ('GOLEM CENTINELA', 'FET-SPO2S', '52323207')
+
+Extracted Name: GOLEM CENTINELA
+Expected Name: GOLEM CENTINELA
+
+Similarity Score between Extracted and Expected Name: 1.00
+Similarity is above the threshold of 0.7.
+
+Predicted set is: ETERNIDAD LLAMEANTE
+The set associated with this card's code is: ETERNIDAD LLAMEANTE
+Predicted card is: Golem Centinela
+-----------------------------------------------------------------------------------------
+
+
+Processing Image: LOBO DE GUERRA NEGRO ABSOLUTO;RDS-SP026.jpeg                  Number: 18
+Extracted Tuple: ('LoBO DE GUERRA NEGRO ABSOLUTO', 'RDS-SPO26', '88975532')
+
+Extracted Name: LoBO DE GUERRA NEGRO ABSOLUTO
+Expected Name: LOBO DE GUERRA NEGRO ABSOLUTO
+
+Similarity Score between Extracted and Expected Name: 1.00
+Similarity is above the threshold of 0.7.
+
+Predicted set is: AUGE DEL DESTINO
+The set associated with this card's code is: AUGE DEL DESTINO
+Predicted card is: Lobo de Guerra Negro Absoluto
+-----------------------------------------------------------------------------------------
+
+
+Processing Image: LOS FRUTOS DE LOS ESTUDIOS DE KOZAKY;RDS-SP053.jpeg                  Number: 19
+Extracted Tuple: ('Los FUTOS DE Los ESTUDIOS DE KOZAKY', 'RDS-SP0O5S3', '49998907')
+
+Extracted Name: Los FUTOS DE Los ESTUDIOS DE KOZAKY
+Expected Name: LOS FRUTOS DE LOS ESTUDIOS DE KOZAKY
+
+Similarity Score between Extracted and Expected Name: 0.99
+Similarity is above the threshold of 0.7.
+
+Predicted set is: AUGE DEL DESTINO
+The set associated with this card's code is: AUGE DEL DESTINO
+Predicted card is: Los Frutos de los Estudios de Kozaky
+-----------------------------------------------------------------------------------------
+
+
+Processing Image: ROC DEL VALLE DE LA NEBLINA;RDS-SP015.jpeg                  Number: 20
+Extracted Tuple: ('Roc DEL VALLE DE LA NEBLINA', 'RDS-SPOLTS', '28143906')
+
+Extracted Name: Roc DEL VALLE DE LA NEBLINA
+Expected Name: ROC DEL VALLE DE LA NEBLINA
+
+Similarity Score between Extracted and Expected Name: 1.00
+Similarity is above the threshold of 0.7.
+
+Predicted set is: AUGE DEL DESTINO
+The set associated with this card's code is: AUGE DEL DESTINO
+Predicted card is: Roc del Valle de la Neblina
+-----------------------------------------------------------------------------------------
+
+
+Processing Image: SPHEROUS LADY;LON-059.jpeg                  Number: 21
+Extracted Tuple: ('SPHEROUS LADY', 'LON-059', '52121290')
+
+Extracted Name: SPHEROUS LADY
+Expected Name: SPHEROUS LADY
+
+Similarity Score between Extracted and Expected Name: 1.00
+Similarity is above the threshold of 0.7.
+
+Predicted set is: LABYRINTH OF NIGHTMARE
+The set associated with this card's code is: LABYRINTH OF NIGHTMARE
+Predicted card is: Spherous Lady
+-----------------------------------------------------------------------------------------
+
+
+Processing Image: THE GROSS GHOST OF FLED DREAMS;LON-053.jpeg                  Number: 22
+Extracted Tuple: ('THE GRoss GHOST OF FLED DREAMS', 'LON-053', '68049471')
+
+Extracted Name: THE GRoss GHOST OF FLED DREAMS
+Expected Name: THE GROSS GHOST OF FLED DREAMS
+
+Similarity Score between Extracted and Expected Name: 1.00
+Similarity is above the threshold of 0.7.
+
+Predicted set is: LABYRINTH OF NIGHTMARE
+The set associated with this card's code is: LABYRINTH OF NIGHTMARE
+Predicted card is: The Gross Ghost of Fled Dreams
+-----------------------------------------------------------------------------------------
+
+
+Processing Image: XING ZHEN HU;RDS-SP051.jpeg                  Number: 23
+Extracted Tuple: ('XING ZHEN HU', 'RDS-SPOS1', '76515293')
+
+Extracted Name: XING ZHEN HU
+Expected Name: XING ZHEN HU
+
+Similarity Score between Extracted and Expected Name: 1.00
+Similarity is above the threshold of 0.7.
+
+Predicted set is: AUGE DEL DESTINO
+The set associated with this card's code is: AUGE DEL DESTINO
+Predicted card is: XING ZHEN HU
+-----------------------------------------------------------------------------------------
+
+
+Processing Image: ZORRO DE FUEGO;RDS-SP029.jpeg                  Number: 24
+Extracted Tuple: ('ZoRRO DE FUEGO', 'RDS-SPO29', '88753985')
+
+Extracted Name: ZoRRO DE FUEGO
+Expected Name: ZORRO DE FUEGO
+
+Similarity Score between Extracted and Expected Name: 1.00
+Similarity is above the threshold of 0.7.
+
+Predicted set is: AUGE DEL DESTINO
+The set associated with this card's code is: AUGE DEL DESTINO
+Predicted card is: Zorro de Fuego
+-----------------------------------------------------------------------------------------
+
+
+Processing Image: ESPÍRITU RADIANTE;STON-SP029.jpeg                  Number: 25
+Extracted Tuple: ('ESPÍRITU RADIANTE', 'STON-SPOZ29', '12624008')
+
+Extracted Name: ESPÍRITU RADIANTE
+Expected Name: ESPÍRITU RADIANTE
+
+Similarity Score between Extracted and Expected Name: 1.00
+Similarity is above the threshold of 0.7.
+
+Predicted set is: GOLPE DE NEOS
+The set associated with this card's code is: GOLPE DE NEOS
+Predicted card is: ESPÍRITU RADIANTE
+-----------------------------------------------------------------------------------------
+
+
+Processing Image: LOS SEIS SAMURÁIS - YARIZA;STON-SP009.jpeg                  Number: 26
+Extracted Tuple: ('Los SEIS SAMURÁIS - YARIZA', 'STON-SPOO09', '69025477')
+
+Extracted Name: Los SEIS SAMURÁIS - YARIZA
+Expected Name: LOS SEIS SAMURÁIS - YARIZA
+
+Similarity Score between Extracted and Expected Name: 1.00
+Similarity is above the threshold of 0.7.
+
+Predicted set is: GOLPE DE NEOS
+The set associated with this card's code is: GOLPE DE NEOS
+Predicted card is: Los Seis Samuráis - Yariza
+-----------------------------------------------------------------------------------------
+
+
+Processing Image: PROMINENCIA DE LA TORMENTA DE FUEGO;STON-SP026.jpeg                  Number: 27
+Extracted Tuple: ('PROMINENECIA DE LA TORMENTA DE FUEGO', 'SION-5P026', '13846680')
+
+Extracted Name: PROMINENECIA DE LA TORMENTA DE FUEGO
+Expected Name: PROMINENCIA DE LA TORMENTA DE FUEGO
+
+Similarity Score between Extracted and Expected Name: 0.99
+Similarity is above the threshold of 0.7.
+
+Predicted set is: GOLPE DE NEOS
+The set associated with this card's code is: GOLPE DE NEOS
+Predicted card is: Prominencia de la Tormenta de Fuego
+-----------------------------------------------------------------------------------------
+
+
+Processing Image: SOLDADO DE INFANTERÍA DE SHIEN;STON-SP014.jpeg                  Number: 28
+Extracted Tuple: ('SOLDADO DE INFANTERÍA DE SHIEN', 'STON-SPOI4', '99675356')
+
+Extracted Name: SOLDADO DE INFANTERÍA DE SHIEN
+Expected Name: SOLDADO DE INFANTERÍA DE SHIEN
+
+Similarity Score between Extracted and Expected Name: 1.00
+Similarity is above the threshold of 0.7.
+
+Predicted set is: GOLPE DE NEOS
+The set associated with this card's code is: GOLPE DE NEOS
+Predicted card is: SOLDADO DE INFANTERÍA DE SHIEN
+-----------------------------------------------------------------------------------------
+
+
+Processing Image: RÁFAGA DE DISPERSIÓN DE CELDA 'A';STON-SP041.jpeg                  Number: 29
+Extracted Tuple: ('RÁFAGA DE DISPERSIÓN DE CELDA "A4', 'STON-SPO41', '2026')
+
+Extracted Name: RÁFAGA DE DISPERSIÓN DE CELDA "A4
+Expected Name: RÁFAGA DE DISPERSIÓN DE CELDA 'A'
+
+Similarity Score between Extracted and Expected Name: 0.94
+Similarity is above the threshold of 0.7.
+
+Predicted set is: GOLPE DE NEOS
+The set associated with this card's code is: GOLPE DE NEOS
+Predicted card is: Ráfaga de Dispersión de Celda 'A'
+-----------------------------------------------------------------------------------------
+
+
+Processing Image: SPIRIT ELIMINATION;LON-102.jpeg                  Number: 30
+Extracted Tuple: ('SPIRIT ELIMINATION', 'LON-102', '69832741')
+
+Extracted Name: SPIRIT ELIMINATION
+Expected Name: SPIRIT ELIMINATION
+
+Similarity Score between Extracted and Expected Name: 1.00
+Similarity is above the threshold of 0.7.
+
+Predicted set is: LABYRINTH OF NIGHTMARE
+The set associated with this card's code is: LABYRINTH OF NIGHTMARE
+Predicted card is: Spirit Elimination
+-----------------------------------------------------------------------------------------
+
+
+Processing Image: AMAZON ARCHER;LON-032.jpeg                  Number: 31
+Extracted Tuple: ('AMAZON ARCHER', 'LON-032', '91869203')
+
+Extracted Name: AMAZON ARCHER
+Expected Name: AMAZON ARCHER
+
+Similarity Score between Extracted and Expected Name: 1.00
+Similarity is above the threshold of 0.7.
+
+Predicted set is: LABYRINTH OF NIGHTMARE
+The set associated with this card's code is: LABYRINTH OF NIGHTMARE
+Predicted card is: Amazon Archer
+-----------------------------------------------------------------------------------------
+
+
+Processing Image: AQUA SPIRIT;LON-068.jpeg                  Number: 32
+Extracted Tuple: ('AQUA SPIRIT', 'LON-068', '409 10023')
+
+Extracted Name: AQUA SPIRIT
+Expected Name: AQUA SPIRIT
+
+Similarity Score between Extracted and Expected Name: 1.00
+Similarity is above the threshold of 0.7.
+
+Predicted set is: LABYRINTH OF NIGHTMARE
+The set associated with this card's code is: LABYRINTH OF NIGHTMARE
+Predicted card is: Aqua Spirit
+-----------------------------------------------------------------------------------------
+
+
+Processing Image: FAIRY GUARDIAN;LON-039.jpeg                  Number: 33
+Extracted Tuple: ('FAIRY GUARDIAN', 'LON-039', '22419772')
+
+Extracted Name: FAIRY GUARDIAN
+Expected Name: FAIRY GUARDIAN
+
+Similarity Score between Extracted and Expected Name: 1.00
+Similarity is above the threshold of 0.7.
+
+Predicted set is: LABYRINTH OF NIGHTMARE
+The set associated with this card's code is: LABYRINTH OF NIGHTMARE
+Predicted card is: Fairy Guardian
+-----------------------------------------------------------------------------------------
+
+
+Processing Image: FIRE SORCERER;LON-036.jpeg                  Number: 34
+Extracted Tuple: ('FIRE SORCERER', 'LON-036', '27132350')
+
+Extracted Name: FIRE SORCERER
+Expected Name: FIRE SORCERER
+
+Similarity Score between Extracted and Expected Name: 1.00
+Similarity is above the threshold of 0.7.
+
+Predicted set is: LABYRINTH OF NIGHTMARE
+The set associated with this card's code is: LABYRINTH OF NIGHTMARE
+Predicted card is: Fire Sorcerer
+-----------------------------------------------------------------------------------------
+
+
+Processing Image: FLYING FISH;LON-007.jpeg                  Number: 35
+Extracted Tuple: ('FLYING FISH', 'LON-007', '31987274')
+
+Extracted Name: FLYING FISH
+Expected Name: FLYING FISH
+
+Similarity Score between Extracted and Expected Name: 1.00
+Similarity is above the threshold of 0.7.
+
+Predicted set is: LABYRINTH OF NIGHTMARE
+The set associated with this card's code is: LABYRINTH OF NIGHTMARE
+Predicted card is: Flying Fish
+-----------------------------------------------------------------------------------------
+
+
+Processing Image: GADGET SOLDIER;LON-010.jpeg                  Number: 36
+Extracted Tuple: ('GADGET SOLDIER', 'LON-010', '86281779')
+
+Extracted Name: GADGET SOLDIER
+Expected Name: GADGET SOLDIER
+
+Similarity Score between Extracted and Expected Name: 1.00
+Similarity is above the threshold of 0.7.
+
+Predicted set is: LABYRINTH OF NIGHTMARE
+The set associated with this card's code is: LABYRINTH OF NIGHTMARE
+Predicted card is: Gadget Soldier
+-----------------------------------------------------------------------------------------
+
+
+Processing Image: LADY ASSAILANT OF FLAMES;LON-035.jpeg                  Number: 37
+Extracted Tuple: ('LADY ASSAILANT OF FLAMES', 'LON-035', '90147755')
+
+Extracted Name: LADY ASSAILANT OF FLAMES
+Expected Name: LADY ASSAILANT OF FLAMES
+
+Similarity Score between Extracted and Expected Name: 1.00
+Similarity is above the threshold of 0.7.
+
+Predicted set is: LABYRINTH OF NIGHTMARE
+The set associated with this card's code is: LABYRINTH OF NIGHTMARE
+Predicted card is: Lady Assailant of Flames
+-----------------------------------------------------------------------------------------
+
+
+Processing Image: THE UNFRIENDLY AMAZON;LON-031.jpeg                  Number: 38
+Extracted Tuple: ('THE UNFRIENDLY AMAZON', 'LON-031', '65475294')
+
+Extracted Name: THE UNFRIENDLY AMAZON
+Expected Name: THE UNFRIENDLY AMAZON
+
+Similarity Score between Extracted and Expected Name: 1.00
+Similarity is above the threshold of 0.7.
+
+Predicted set is: LABYRINTH OF NIGHTMARE
+The set associated with this card's code is: LABYRINTH OF NIGHTMARE
+Predicted card is: The Unfriendly Amazon
+-----------------------------------------------------------------------------------------
+
+
+Processing Image: DEMONIO ELEMENTAL;FET-SP011.jpeg                  Number: 39
+Extracted Tuple: ('DEMONIO ELEMENTAL', 'FET-SPOT1', '23118924')
+
+Extracted Name: DEMONIO ELEMENTAL
+Expected Name: DEMONIO ELEMENTAL
+
+Similarity Score between Extracted and Expected Name: 1.00
+Similarity is above the threshold of 0.7.
+
+Predicted set is: ETERNIDAD LLAMEANTE
+The set associated with this card's code is: ETERNIDAD LLAMEANTE
+Predicted card is: DEMONIO ELEMENTAL
+-----------------------------------------------------------------------------------------
+
+
+Processing Image: THE EARL OF DEMISE;LON-056.jpeg                  Number: 40
+Extracted Tuple: ('THE EARL OF DEMISE', 'LON-056', '66989694')
+
+Extracted Name: THE EARL OF DEMISE
+Expected Name: THE EARL OF DEMISE
+
+Similarity Score between Extracted and Expected Name: 1.00
+Similarity is above the threshold of 0.7.
+
+Predicted set is: LABYRINTH OF NIGHTMARE
+The set associated with this card's code is: LABYRINTH OF NIGHTMARE
+Predicted card is: The Earl of Demise
+-----------------------------------------------------------------------------------------
+
+
+Processing Image: ¡TORMENTA SAMURÁI RÁPIDA!;STON-SP058.jpeg                  Number: 41
+Extracted Tuple: ('¡TORMENTA SAMURÁI RÁPIDA!', 'STOÓN-SPOS8', '71934924')
+
+Extracted Name: ¡TORMENTA SAMURÁI RÁPIDA!
+Expected Name: ¡TORMENTA SAMURÁI RÁPIDA!
+
+Similarity Score between Extracted and Expected Name: 1.00
+Similarity is above the threshold of 0.7.
+
+Predicted set is: GOLPE DE NEOS
+The set associated with this card's code is: GOLPE DE NEOS
+Predicted card is: ¡Tormenta Samurái Rápida!
+-----------------------------------------------------------------------------------------
+
+
+Processing Image: ARTE RITUAL AVANZADO;STON-SP045.jpeg                  Number: 42
+Extracted Tuple: ('ARTE RITUAL AVANZADO', 'STON-SP045', 'EO 24')
+
+Extracted Name: ARTE RITUAL AVANZADO
+Expected Name: ARTE RITUAL AVANZADO
+
+Similarity Score between Extracted and Expected Name: 1.00
+Similarity is above the threshold of 0.7.
+
+Predicted set is: GOLPE DE NEOS
+The set associated with this card's code is: GOLPE DE NEOS
+Predicted card is: Arte Ritual Avanzado
+-----------------------------------------------------------------------------------------
+
+
+Processing Image: EMBLEMA DEL DESPERTAR;STON-SP044.jpeg                  Number: 43
+Extracted Tuple: ('EMBLEMA DEL DESPERTAR', 'STON-SPO44', 'S57')
+
+Extracted Name: EMBLEMA DEL DESPERTAR
+Expected Name: EMBLEMA DEL DESPERTAR
+
+Similarity Score between Extracted and Expected Name: 1.00
+Similarity is above the threshold of 0.7.
+
+Predicted set is: GOLPE DE NEOS
+The set associated with this card's code is: GOLPE DE NEOS
+Predicted card is: Emblema del Despertar
+-----------------------------------------------------------------------------------------
+
+
+Processing Image: LOS SEIS SAMURÁIS - NISASHI;STON-SP010.jpeg                  Number: 44
+Extracted Tuple: ('Los SEIS SAMURÁIS - NISASHI', 'STON-SPOIO', '31904181')
+
+Extracted Name: Los SEIS SAMURÁIS - NISASHI
+Expected Name: LOS SEIS SAMURÁIS - NISASHI
+
+Similarity Score between Extracted and Expected Name: 1.00
+Similarity is above the threshold of 0.7.
+
+Predicted set is: GOLPE DE NEOS
+The set associated with this card's code is: GOLPE DE NEOS
+Predicted card is: Los Seis Samuráis - Nisashi
+-----------------------------------------------------------------------------------------
+
+
+Processing Image: SELLADO DEL RITUAL;STON-SP056.jpeg                  Number: 45
+Extracted Tuple: ('SELLADO DEL RITUAL', 'SION-SPOS6', '09145181')
+
+Extracted Name: SELLADO DEL RITUAL
+Expected Name: SELLADO DEL RITUAL
+
+Similarity Score between Extracted and Expected Name: 1.00
+Similarity is above the threshold of 0.7.
+
+Predicted set is: GOLPE DE NEOS
+The set associated with this card's code is: GOLPE DE NEOS
+Predicted card is: SELLADO DEL RITUAL
+-----------------------------------------------------------------------------------------
+
+
+Processing Image: TIERRA ENFURECIDA;STON-SP027.jpeg                  Number: 46
+Extracted Tuple: ('TIERRA ENFURECIDA', 'STON-SPO27', '50957346')
+
+Extracted Name: TIERRA ENFURECIDA
+Expected Name: TIERRA ENFURECIDA
+
+Similarity Score between Extracted and Expected Name: 1.00
+Similarity is above the threshold of 0.7.
+
+Predicted set is: GOLPE DE NEOS
+The set associated with this card's code is: GOLPE DE NEOS
+Predicted card is: Tierra Enfurecida
+-----------------------------------------------------------------------------------------
+
+
+Processing Image: VIRUS ELÉCTRICO;STON-SP021.jpeg                  Number: 47
+Extracted Tuple: ('VIRUS ELÉCTRICO', 'STON-SPO21', '24725825')
+
+Extracted Name: VIRUS ELÉCTRICO
+Expected Name: VIRUS ELÉCTRICO
+
+Similarity Score between Extracted and Expected Name: 1.00
+Similarity is above the threshold of 0.7.
+
+Predicted set is: GOLPE DE NEOS
+The set associated with this card's code is: GOLPE DE NEOS
+Predicted card is: VIRUS ELÉCTRICO
+-----------------------------------------------------------------------------------------
+
+
+Processing Image: BONEHEIMER;LON-057 (v2).jpeg                  Number: 48
+Extracted Tuple: ('BONEHEIMER', 'LON-057', '984506117')
+
+Extracted Name: BONEHEIMER
+Expected Name: BONEHEIMER
+
+Similarity Score between Extracted and Expected Name: 1.00
+Similarity is above the threshold of 0.7.
+
+Predicted set is: LABYRINTH OF NIGHTMARE
+The set associated with this card's code is: LABYRINTH OF NIGHTMARE
+Predicted card is: Boneheimer
+-----------------------------------------------------------------------------------------
+
+
+Processing Image: BONEHEIMER;LON-057(slight_tilt).jpeg                  Number: 49
+Extracted Tuple: ('BONEHEIMER', 'LON-057', "9845()¡]7'")
+
+Extracted Name: BONEHEIMER
+Expected Name: BONEHEIMER
+
+Similarity Score between Extracted and Expected Name: 1.00
+Similarity is above the threshold of 0.7.
+
+Predicted set is: LABYRINTH OF NIGHTMARE
+The set associated with this card's code is: LABYRINTH OF NIGHTMARE
+Predicted card is: Boneheimer
+-----------------------------------------------------------------------------------------
+
+
+Processing Image: CRIMSON SENTRY;LON-033.jpeg                  Number: 50
+Extracted Tuple: ('CRIMSON SENTRY', 'LON-033', '28358902')
+
+Extracted Name: CRIMSON SENTRY
+Expected Name: CRIMSON SENTRY
+
+Similarity Score between Extracted and Expected Name: 1.00
+Similarity is above the threshold of 0.7.
+
+Predicted set is: LABYRINTH OF NIGHTMARE
+The set associated with this card's code is: LABYRINTH OF NIGHTMARE
+Predicted card is: Crimson Sentry
+-----------------------------------------------------------------------------------------
+
+
+Processing Image: DRAGONIC ATTACK;LON-101.jpeg                  Number: 51
+Extracted Tuple: ('DRAGONIC ATTACK', 'LON-101', 'RA 37109')
+
+Extracted Name: DRAGONIC ATTACK
+Expected Name: DRAGONIC ATTACK
+
+Similarity Score between Extracted and Expected Name: 1.00
+Similarity is above the threshold of 0.7.
+
+Predicted set is: LABYRINTH OF NIGHTMARE
+The set associated with this card's code is: LABYRINTH OF NIGHTMARE
+Predicted card is: Dragonic Attack
+-----------------------------------------------------------------------------------------
+
+
+Processing Image: LADY PANTHER;LON-030.jpeg                  Number: 52
+Extracted Tuple: ('LADY PANTHER', 'LON-030', '38451590')
+
+Extracted Name: LADY PANTHER
+Expected Name: LADY PANTHER
+
+Similarity Score between Extracted and Expected Name: 1.00
+Similarity is above the threshold of 0.7.
+
+Predicted set is: LABYRINTH OF NIGHTMARE
+The set associated with this card's code is: LABYRINTH OF NIGHTMARE
+Predicted card is: Lady Panther
+-----------------------------------------------------------------------------------------
+
+
+Processing Image: LADY PANTHER;LON-030 (v2).jpeg                  Number: 53
+Extracted Tuple: ('LADY PANTHER', 'LON-030', '38480590')
+
+Extracted Name: LADY PANTHER
+Expected Name: LADY PANTHER
+
+Similarity Score between Extracted and Expected Name: 1.00
+Similarity is above the threshold of 0.7.
+
+Predicted set is: LABYRINTH OF NIGHTMARE
+The set associated with this card's code is: LABYRINTH OF NIGHTMARE
+Predicted card is: Lady Panther
+-----------------------------------------------------------------------------------------
+
+
+Processing Image: SWORDSMAN OF LANDSTAR;LON-002.jpeg                  Number: 54
+Extracted Tuple: ('SWORDSMAN OF LANDSTAR', 'LON-002', '03573512')
+
+Extracted Name: SWORDSMAN OF LANDSTAR
+Expected Name: SWORDSMAN OF LANDSTAR
+
+Similarity Score between Extracted and Expected Name: 1.00
+Similarity is above the threshold of 0.7.
+
+Predicted set is: LABYRINTH OF NIGHTMARE
+The set associated with this card's code is: LABYRINTH OF NIGHTMARE
+Predicted card is: Swordsman of Landstar
+-----------------------------------------------------------------------------------------
+
+
+Processing Image: BOKOICHI EL COCHE QUE ASUSTA;RDS-SP003.jpeg                  Number: 55
+Extracted Tuple: ('BOKOICHI EL COCHE QuE ASUSTA', 'RDS-SPO003', '08715625')
+
+Extracted Name: BOKOICHI EL COCHE QuE ASUSTA
+Expected Name: BOKOICHI EL COCHE QUE ASUSTA
+
+Similarity Score between Extracted and Expected Name: 1.00
+Similarity is above the threshold of 0.7.
+
+Predicted set is: AUGE DEL DESTINO
+The set associated with this card's code is: AUGE DEL DESTINO
+Predicted card is: Bokoichi el Coche Que Asusta
+-----------------------------------------------------------------------------------------
+
+
+Processing Image: DAMA ARPÍA 2;RDS-SP018.jpeg                  Number: 56
+Extracted Tuple: ('DAMA ARPÍA 2', 'RDS-SPO18', '27927359')
+
+Extracted Name: DAMA ARPÍA 2
+Expected Name: DAMA ARPÍA 2
+
+Similarity Score between Extracted and Expected Name: 1.00
+Similarity is above the threshold of 0.7.
+
+Predicted set is: AUGE DEL DESTINO
+The set associated with this card's code is: AUGE DEL DESTINO
+Predicted card is: DAMA ARPÍA 2
+-----------------------------------------------------------------------------------------
+
+
+Processing Image: DAMA ARPÍA 3;RDS-SP019.jpeg                  Number: 57
+Extracted Tuple: ('DAMA ARPÍA 3', 'RDS-SPO19', '54415063')
+
+Extracted Name: DAMA ARPÍA 3
+Expected Name: DAMA ARPÍA 3
+
+Similarity Score between Extracted and Expected Name: 1.00
+Similarity is above the threshold of 0.7.
+
+Predicted set is: AUGE DEL DESTINO
+The set associated with this card's code is: AUGE DEL DESTINO
+Predicted card is: DAMA ARPÍA 3
+-----------------------------------------------------------------------------------------
+
+
+Processing Image: EL CREADOR ENCARNADO;RDS-SP006.jpeg                  Number: 58
+Extracted Tuple: ('EL CREADOR ENCARNADO', 'RDS-SPOO0O6', '97093037')
+
+Extracted Name: EL CREADOR ENCARNADO
+Expected Name: EL CREADOR ENCARNADO
+
+Similarity Score between Extracted and Expected Name: 1.00
+Similarity is above the threshold of 0.7.
+
+Predicted set is: AUGE DEL DESTINO
+The set associated with this card's code is: AUGE DEL DESTINO
+Predicted card is: El Creador Encarnado
+-----------------------------------------------------------------------------------------
+
+
+Processing Image: GUARDIA PODEROSO;RDS-SP002.jpeg                  Number: 59
+Extracted Tuple: ('GUARDIA PODEROSO', 'RDS-SPOO2', '62327910')
+
+Extracted Name: GUARDIA PODEROSO
+Expected Name: GUARDIA PODEROSO
+
+Similarity Score between Extracted and Expected Name: 1.00
+Similarity is above the threshold of 0.7.
+
+Predicted set is: AUGE DEL DESTINO
+The set associated with this card's code is: AUGE DEL DESTINO
+Predicted card is: Guardia Poderoso
+-----------------------------------------------------------------------------------------
+
+
+Processing Image: INPACHI MADERABORG;RDS-SP001.jpeg                  Number: 60
+Extracted Tuple: ('INPACHI MADERABORG', 'RDS-SPOO1', '35322812')
+
+Extracted Name: INPACHI MADERABORG
+Expected Name: INPACHI MADERABORG
+
+Similarity Score between Extracted and Expected Name: 1.00
+Similarity is above the threshold of 0.7.
+
+Predicted set is: AUGE DEL DESTINO
+The set associated with this card's code is: AUGE DEL DESTINO
+Predicted card is: Inpachi Maderaborg
+-----------------------------------------------------------------------------------------
+
+
+Processing Image: MAGA ELEMENTAL;RDS-SP013.jpeg                  Number: 61
+Extracted Tuple: ('MAGA ELEMENTAL', 'RDS-SPO13', '65260293')
+
+Extracted Name: MAGA ELEMENTAL
+Expected Name: MAGA ELEMENTAL
+
+Similarity Score between Extracted and Expected Name: 1.00
+Similarity is above the threshold of 0.7.
+
+Predicted set is: AUGE DEL DESTINO
+The set associated with this card's code is: AUGE DEL DESTINO
+Predicted card is: MAGA ELEMENTAL
+-----------------------------------------------------------------------------------------
+
+
+Processing Image: PINGÜINO DE PESADILLA;RDS-SP010.jpeg                  Number: 62
+Extracted Tuple: ('PINGUINO DE PESADILLA', 'RDS-SPO10', '81306586')
+
+Extracted Name: PINGUINO DE PESADILLA
+Expected Name: PINGÜINO DE PESADILLA
+
+Similarity Score between Extracted and Expected Name: 0.95
+Similarity is above the threshold of 0.7.
+
+Predicted set is: AUGE DEL DESTINO
+The set associated with this card's code is: AUGE DEL DESTINO
+Predicted card is: Pingüino de Pesadilla
+-----------------------------------------------------------------------------------------
+
+
+Processing Image: PLATAFORMA DE APOYO DE MECHS PESADOS;RDS-SP011.jpeg                  Number: 63
+Extracted Tuple: ('PLATAFORMA DE APOYO DE MECHS PESADOS', 'RDS-SPO11', '23265594')
+
+Extracted Name: PLATAFORMA DE APOYO DE MECHS PESADOS
+Expected Name: PLATAFORMA DE APOYO DE MECHS PESADOS
+
+Similarity Score between Extracted and Expected Name: 1.00
+Similarity is above the threshold of 0.7.
+
+Predicted set is: AUGE DEL DESTINO
+The set associated with this card's code is: AUGE DEL DESTINO
+Predicted card is: Plataforma de Apoyo de Mechs Pesados
+-----------------------------------------------------------------------------------------
+
+
+Processing Image: SAMURAI SASUKE #4;RDS-SP016.jpeg                  Number: 64
+Extracted Tuple: ('SAMURAI SASUKE “+1', 'ROS-SPO16', '64538OSS')
+
+Extracted Name: SAMURAI SASUKE “+1
+Expected Name: SAMURAI SASUKE #4
+
+Similarity Score between Extracted and Expected Name: 0.86
+Similarity is above the threshold of 0.7.
+
+Predicted set is: AUGE DEL DESTINO
+The set associated with this card's code is: AUGE DEL DESTINO
+Predicted card is: SAMURAI SASUKE #4
+-----------------------------------------------------------------------------------------
+
+
+Processing Image: SAURO ELEMENTAL;RDS-SP014.jpeg                  Number: 65
+Extracted Tuple: ('SAURO ELEMENTAL', 'RDS-SPO14', '92755808')
+
+Extracted Name: SAURO ELEMENTAL
+Expected Name: SAURO ELEMENTAL
+
+Similarity Score between Extracted and Expected Name: 1.00
+Similarity is above the threshold of 0.7.
+
+Predicted set is: AUGE DEL DESTINO
+The set associated with this card's code is: AUGE DEL DESTINO
+Predicted card is: SAURO ELEMENTAL
+-----------------------------------------------------------------------------------------
+
+
+Processing Image: BUMERANG CICLÓN;DP03-SP015.jpeg                  Number: 66
+Extracted Tuple: ('BUMERANG CICLÓN', 'DPO3-SPOTS', '] 250')
+
+Extracted Name: BUMERANG CICLÓN
+Expected Name: BUMERANG CICLÓN
+
+Similarity Score between Extracted and Expected Name: 1.00
+Similarity is above the threshold of 0.7.
+
+Predicted set is: SOBRE DE DUELISTA - JADEN YUKI 3
+The set associated with this card's code is: SOBRE DE DUELISTA - JADEN YUKI 3
+Predicted card is: BUMERANG CICLÓN
+-----------------------------------------------------------------------------------------
+
+
+Processing Image: DELFIN AQUA NEO ESPACIAL;DP03-SP005.jpeg                  Number: 67
+Extracted Tuple: ('DELFÍN AQUA NEO ESPACIA!', 'DPO3-SPOOS', '17955766')
+
+Extracted Name: DELFÍN AQUA NEO ESPACIA!
+Expected Name: DELFIN AQUA NEO ESPACIAL
+
+Similarity Score between Extracted and Expected Name: 0.92
+Similarity is above the threshold of 0.7.
+
+Predicted set is: SOBRE DE DUELISTA - JADEN YUKI 3
+The set associated with this card's code is: SOBRE DE DUELISTA - JADEN YUKI 3
+Predicted card is: DELFIN AQUA NEO ESPACIAL
+-----------------------------------------------------------------------------------------
+
+
+Processing Image: E- LLAMADA DE EMERGENCIA;DP03-SP017.jpeg                  Number: 68
+Extracted Tuple: ('E- LLAMADA DE EMERGENCIN', 'DPO3-SPO17', '— ARE»...')
+
+Extracted Name: E- LLAMADA DE EMERGENCIN
+Expected Name: E- LLAMADA DE EMERGENCIA
+
+Similarity Score between Extracted and Expected Name: 0.96
+Similarity is above the threshold of 0.7.
+
+Predicted set is: SOBRE DE DUELISTA - JADEN YUKI 3
+The set associated with this card's code is: SOBRE DE DUELISTA - JADEN YUKI 3
+Predicted card is: E- LLAMADA DE EMERGENCIA
+-----------------------------------------------------------------------------------------
+
+
+Processing Image: H- CORAZÓN ARDIENTE;DP03-SP016.jpeg                  Number: 69
+Extracted Tuple: ('H- CORAZÓN ARDIENTÉ', 'DPO3-SPO16', '— —')
+
+Extracted Name: H- CORAZÓN ARDIENTÉ
+Expected Name: H- CORAZÓN ARDIENTE
+
+Similarity Score between Extracted and Expected Name: 0.95
+Similarity is above the threshold of 0.7.
+
+Predicted set is: SOBRE DE DUELISTA - JADEN YUKI 3
+The set associated with this card's code is: SOBRE DE DUELISTA - JADEN YUKI 3
+Predicted card is: H- CORAZÓN ARDIENTE
+-----------------------------------------------------------------------------------------
+
+
+Processing Image: HÉROE ELEMENTAL NEOS;DP03-SP001.jpeg                  Number: 70
+Extracted Tuple: ('HÉROE ELEMENTAL NEOS', 'DPO3-SPUU1', '89941723')
+
+Extracted Name: HÉROE ELEMENTAL NEOS
+Expected Name: HÉROE ELEMENTAL NEOS
+
+Similarity Score between Extracted and Expected Name: 1.00
+Similarity is above the threshold of 0.7.
+
+Predicted set is: SOBRE DE DUELISTA - JADEN YUKI 3
+The set associated with this card's code is: SOBRE DE DUELISTA - JADEN YUKI 3
+Predicted card is: HÉROE ELEMENTAL NEOS
+-----------------------------------------------------------------------------------------
+
+
+Processing Image: NIÑO HÉROE;DP03-SP004.jpeg                  Number: 71
+Extracted Tuple: ('NIÑO HÉROE', 'DPO3-SPOO04', '32679370')
+
+Extracted Name: NIÑO HÉROE
+Expected Name: NIÑO HÉROE
+
+Similarity Score between Extracted and Expected Name: 1.00
+Similarity is above the threshold of 0.7.
+
+Predicted set is: SOBRE DE DUELISTA - JADEN YUKI 3
+The set associated with this card's code is: SOBRE DE DUELISTA - JADEN YUKI 3
+Predicted card is: NIÑO HÉROE
+-----------------------------------------------------------------------------------------
+
+
+Processing Image: PANTERA OSCURA NEO ESPACIAL;DP03-SP007.jpeg                  Number: 72
+Extracted Tuple: ('PANTERA OSCURA NEO ESPACA!', 'DPO3-SPO07', '43237273')
+
+Extracted Name: PANTERA OSCURA NEO ESPACA!
+Expected Name: PANTERA OSCURA NEO ESPACIAL
+
+Similarity Score between Extracted and Expected Name: 0.94
+Similarity is above the threshold of 0.7.
+
+Predicted set is: SOBRE DE DUELISTA - JADEN YUKI 3
+The set associated with this card's code is: SOBRE DE DUELISTA - JADEN YUKI 3
+Predicted card is: PANTERA OSCURA NEO ESPACIAL
+-----------------------------------------------------------------------------------------
+
+
+Processing Image: ATRÁS A LA CASILLA UNO;RDS-SP044.jpeg                  Number: 73
+Extracted Tuple: ('ATRÁS A LA CASILLA UNO', 'RDS-SPO44', '453433')
+
+Extracted Name: ATRÁS A LA CASILLA UNO
+Expected Name: ATRÁS A LA CASILLA UNO
+
+Similarity Score between Extracted and Expected Name: 1.00
+Similarity is above the threshold of 0.7.
+
+Predicted set is: AUGE DEL DESTINO
+The set associated with this card's code is: AUGE DEL DESTINO
+Predicted card is: Atrás a la Casilla Uno
+-----------------------------------------------------------------------------------------
+
+
+Processing Image: BALLISTA ROMPE FORTALEZAS;RDS-SP046.jpeg                  Number: 74
+Extracted Tuple: ('BALLISTA ROMPE FORTALEZAS', 'RDS-SPO46', '— »ERAL:.-')
+
+Extracted Name: BALLISTA ROMPE FORTALEZAS
+Expected Name: BALLISTA ROMPE FORTALEZAS
+
+Similarity Score between Extracted and Expected Name: 1.00
+Similarity is above the threshold of 0.7.
+
+Predicted set is: AUGE DEL DESTINO
+The set associated with this card's code is: AUGE DEL DESTINO
+Predicted card is: Ballista Rompe Fortalezas
+-----------------------------------------------------------------------------------------
+
+
+Processing Image: BARRERA ASTRAL;RDS-SP059.jpeg                  Number: 75
+Extracted Tuple: ('BARRERA ASTRAL', 'RDS-SPOS9', '37053871')
+
+Extracted Name: BARRERA ASTRAL
+Expected Name: BARRERA ASTRAL
+
+Similarity Score between Extracted and Expected Name: 1.00
+Similarity is above the threshold of 0.7.
+
+Predicted set is: AUGE DEL DESTINO
+The set associated with this card's code is: AUGE DEL DESTINO
+Predicted card is: BARRERA ASTRAL
+-----------------------------------------------------------------------------------------
+
+
+Processing Image: DISPERSIÓN DE MALICIA;RDS-SP048.jpeg                  Number: 76
+Extracted Tuple: ('DISPERSIÓN DE MALICIA', 'RDS-SPO48', '626450')
+
+Extracted Name: DISPERSIÓN DE MALICIA
+Expected Name: DISPERSIÓN DE MALICIA
+
+Similarity Score between Extracted and Expected Name: 1.00
+Similarity is above the threshold of 0.7.
+
+Predicted set is: AUGE DEL DESTINO
+The set associated with this card's code is: AUGE DEL DESTINO
+Predicted card is: DISPERSIÓN DE MALICIA
+-----------------------------------------------------------------------------------------
+
+
+Processing Image: DRAGÓN DEL ESPEJISMO;RDS-SP027.jpeg                  Number: 77
+Extracted Tuple: ('DRAGÓN DEL ESPEJISMO', 'RDS-SPO27', '15960641')
+
+Extracted Name: DRAGÓN DEL ESPEJISMO
+Expected Name: DRAGÓN DEL ESPEJISMO
+
+Similarity Score between Extracted and Expected Name: 1.00
+Similarity is above the threshold of 0.7.
+
+Predicted set is: AUGE DEL DESTINO
+The set associated with this card's code is: AUGE DEL DESTINO
+Predicted card is: DRAGÓN DEL ESPEJISMO
+-----------------------------------------------------------------------------------------
+
+
+Processing Image: EXPERTO EN ESPIONAJE TÁCTICO;RDS-SP023.jpeg                  Number: 78
+Extracted Tuple: ('EXPERTO EN ESPIONAJE TÁCTICO', 'RDS-SPO23', '89698120')
+
+Extracted Name: EXPERTO EN ESPIONAJE TÁCTICO
+Expected Name: EXPERTO EN ESPIONAJE TÁCTICO
+
+Similarity Score between Extracted and Expected Name: 1.00
+Similarity is above the threshold of 0.7.
+
+Predicted set is: AUGE DEL DESTINO
+The set associated with this card's code is: AUGE DEL DESTINO
+Predicted card is: EXPERTO EN ESPIONAJE TÁCTICO
+-----------------------------------------------------------------------------------------
+
+
+Processing Image: HACKEAR LA MENTE;RDS-SP054.jpeg                  Number: 79
+Extracted Tuple: ('HACKEAR LA MENTE', 'RDS-SPOS4', '75392615')
+
+Extracted Name: HACKEAR LA MENTE
+Expected Name: HACKEAR LA MENTE
+
+Similarity Score between Extracted and Expected Name: 1.00
+Similarity is above the threshold of 0.7.
+
+Predicted set is: AUGE DEL DESTINO
+The set associated with this card's code is: AUGE DEL DESTINO
+Predicted card is: HACKEAR LA MENTE
+-----------------------------------------------------------------------------------------
+
+
+Processing Image: HOMUNCULUS EL SER ALQUÍMICO;RDS-SP034.jpeg                  Number: 80
+Extracted Tuple: ('HOMUNCULUS EL SER ALQUÍMICO', 'RDS-SPO34', '40410110')
+
+Extracted Name: HOMUNCULUS EL SER ALQUÍMICO
+Expected Name: HOMUNCULUS EL SER ALQUÍMICO
+
+Similarity Score between Extracted and Expected Name: 1.00
+Similarity is above the threshold of 0.7.
+
+Predicted set is: AUGE DEL DESTINO
+The set associated with this card's code is: AUGE DEL DESTINO
+Predicted card is: Homunculus el Ser Alquímico
+-----------------------------------------------------------------------------------------
+
+
+Processing Image: INVASIÓN DE LLAMAS;RDS-SP024.jpeg                  Number: 81
+Extracted Tuple: ('INVASIÓN DE LLAMAS', 'RDS-SPO024', '26082229')
+
+Extracted Name: INVASIÓN DE LLAMAS
+Expected Name: INVASIÓN DE LLAMAS
+
+Similarity Score between Extracted and Expected Name: 1.00
+Similarity is above the threshold of 0.7.
+
+Predicted set is: AUGE DEL DESTINO
+The set associated with this card's code is: AUGE DEL DESTINO
+Predicted card is: Invasión de Llamas
+-----------------------------------------------------------------------------------------
+
+
+Processing Image: MOKEY MOKEY SMACKDOWN;RDS-EN043.jpeg                  Number: 82
+Extracted Tuple: ('MoKkeyY MoKEY SMACKDOWN', 'RDS-FN043', '— 7')
+
+Extracted Name: MoKkeyY MoKEY SMACKDOWN
+Expected Name: MOKEY MOKEY SMACKDOWN
+
+Similarity Score between Extracted and Expected Name: 0.95
+Similarity is above the threshold of 0.7.
+
+Predicted set is: AUGE DEL DESTINO
+The set associated with this card's code is: AUGE DEL DESTINO
+Predicted card is: MOKEY MOKEY SMACKDOWN
+-----------------------------------------------------------------------------------------
+
+
+Processing Image: NÉMESIS REPTANTE MANTA;RDS-SP025.jpeg                  Number: 83
+Extracted Tuple: ('NÉMESIS REPTANTE MANTA', 'RDS-SPO25', '$2571838')
+
+Extracted Name: NÉMESIS REPTANTE MANTA
+Expected Name: NÉMESIS REPTANTE MANTA
+
+Similarity Score between Extracted and Expected Name: 1.00
+Similarity is above the threshold of 0.7.
+
+Predicted set is: AUGE DEL DESTINO
+The set associated with this card's code is: AUGE DEL DESTINO
+Predicted card is: Némesis Reptante Manta
+-----------------------------------------------------------------------------------------
+
+
+Processing Image: PURIFICACIÓN DE HECHIZO;RDS-SP058.jpeg                  Number: 84
+Extracted Tuple: ('PURIFICACIÓN DE HECHIZO', 'RDS-SPOS8', '01669772')
+
+Extracted Name: PURIFICACIÓN DE HECHIZO
+Expected Name: PURIFICACIÓN DE HECHIZO
+
+Similarity Score between Extracted and Expected Name: 1.00
+Similarity is above the threshold of 0.7.
+
+Predicted set is: AUGE DEL DESTINO
+The set associated with this card's code is: AUGE DEL DESTINO
+Predicted card is: PURIFICACIÓN DE HECHIZO
+-----------------------------------------------------------------------------------------
+
+
+Processing Image: REY MOKEY MOKEY;RDS-SP036.jpeg                  Number: 85
+Extracted Tuple: ('ReY MOKEY MOKEY', 'RDS-SPOJF6', '2381864')
+
+Extracted Name: ReY MOKEY MOKEY
+Expected Name: REY MOKEY MOKEY
+
+Similarity Score between Extracted and Expected Name: 1.00
+Similarity is above the threshold of 0.7.
+
+Predicted set is: AUGE DEL DESTINO
+The set associated with this card's code is: AUGE DEL DESTINO
+Predicted card is: REY MOKEY MOKEY
+-----------------------------------------------------------------------------------------
+
+
+Processing Image: TERRITORIO DE CAZA DE LAS ARPIAS;RDS-SP038.jpeg                  Number: 86
+Extracted Tuple: ('TERRITORIO DE CAZA DE LAS ARPIAS', 'RDS-SP038', '82277')
+
+Extracted Name: TERRITORIO DE CAZA DE LAS ARPIAS
+Expected Name: TERRITORIO DE CAZA DE LAS ARPIAS
+
+Similarity Score between Extracted and Expected Name: 1.00
+Similarity is above the threshold of 0.7.
+
+Predicted set is: AUGE DEL DESTINO
+The set associated with this card's code is: AUGE DEL DESTINO
+Predicted card is: Territorio de Caza de las Arpias
+-----------------------------------------------------------------------------------------
+
+
+Processing Image: QUEMADURA EN CADENA;RDS-SP056.jpeg                  Number: 87
+Extracted Tuple: ('QUEMADURA EN CADENA', 'RDS-SPOS6', '48276469')
+
+Extracted Name: QUEMADURA EN CADENA
+Expected Name: QUEMADURA EN CADENA
+
+Similarity Score between Extracted and Expected Name: 1.00
+Similarity is above the threshold of 0.7.
+
+Predicted set is: AUGE DEL DESTINO
+The set associated with this card's code is: AUGE DEL DESTINO
+Predicted card is: Quemadura en Cadena
+-----------------------------------------------------------------------------------------
+
+
+Processing Image: METALMORFO RARO;RDS-SP052.jpeg                  Number: 88
+Extracted Tuple: ('METALMORFO RARO', 'RDS-SPOS?', '12503902')
+
+Extracted Name: METALMORFO RARO
+Expected Name: METALMORFO RARO
+
+Similarity Score between Extracted and Expected Name: 1.00
+Similarity is above the threshold of 0.7.
+
+Predicted set is: AUGE DEL DESTINO
+The set associated with this card's code is: AUGE DEL DESTINO
+Predicted card is: Metalmorfo Raro
+-----------------------------------------------------------------------------------------
+
+
+Processing Image: DUPLICACIÓN DE MÁQUINA;RDS-SP041.jpeg                  Number: 89
+Extracted Tuple: ('DUPLICACION DE MAQUINA', 'RDS-SPO41', '3995093')
+
+Extracted Name: DUPLICACION DE MAQUINA
+Expected Name: DUPLICACIÓN DE MÁQUINA
+
+Similarity Score between Extracted and Expected Name: 0.91
+Similarity is above the threshold of 0.7.
+
+Predicted set is: AUGE DEL DESTINO
+The set associated with this card's code is: AUGE DEL DESTINO
+Predicted card is: Duplicación de Máquina
+-----------------------------------------------------------------------------------------
+
+
+Processing Image: DEKOICHI LA LOCOMOTORA ENCANTADA;RDS-SP032.jpeg                  Number: 90
+Extracted Tuple: ('DEKOICHI LA LOCOMOTORA ENCANTADA', 'RDS-SPO32', '87621407')
+
+Extracted Name: DEKOICHI LA LOCOMOTORA ENCANTADA
+Expected Name: DEKOICHI LA LOCOMOTORA ENCANTADA
+
+Similarity Score between Extracted and Expected Name: 1.00
+Similarity is above the threshold of 0.7.
+
+Predicted set is: AUGE DEL DESTINO
+The set associated with this card's code is: AUGE DEL DESTINO
+Predicted card is: Dekoichi la Locomotora Encantada
+-----------------------------------------------------------------------------------------
+
+
+Processing Image: GRAN NÚCLEO;RDS-SP030.jpeg                  Number: 91
+Extracted Tuple: ('GRAN NÚUCLEO', 'RDS-SPO30', '14148099')
+
+Extracted Name: GRAN NÚUCLEO
+Expected Name: GRAN NÚCLEO
+
+Similarity Score between Extracted and Expected Name: 0.96
+Similarity is above the threshold of 0.7.
+
+Predicted set is: AUGE DEL DESTINO
+The set associated with this card's code is: AUGE DEL DESTINO
+Predicted card is: Gran Núcleo
+-----------------------------------------------------------------------------------------
+
+
+Processing Image: ALMA DE GAIA EL COLECTIVO COMBUSTIBLE;RDS-SP028.jpeg                  Number: 92
+Extracted Tuple: ('ÁLMA DE GAIA El CoLECTIVO COMBUSTIBLE', 'RDS-SPO28', '51355346')
+
+Extracted Name: ÁLMA DE GAIA El CoLECTIVO COMBUSTIBLE
+Expected Name: ALMA DE GAIA EL COLECTIVO COMBUSTIBLE
+
+Similarity Score between Extracted and Expected Name: 0.97
+Similarity is above the threshold of 0.7.
+
+Predicted set is: AUGE DEL DESTINO
+The set associated with this card's code is: AUGE DEL DESTINO
+Predicted card is: Alma de Gaia el Colectivo Combustible
+-----------------------------------------------------------------------------------------
+
+
+Processing Image: DAMA ARPÍA 1;RDS-SP017.jpeg                  Number: 93
+Extracted Tuple: ('DAMA ARPÍA |', 'RDS-SPO17', '91932350')
+
+Extracted Name: DAMA ARPÍA |
+Expected Name: DAMA ARPÍA 1
+
+Similarity Score between Extracted and Expected Name: 0.92
+Similarity is above the threshold of 0.7.
+
+Predicted set is: AUGE DEL DESTINO
+The set associated with this card's code is: AUGE DEL DESTINO
+Predicted card is: DAMA ARPÍA 1
+-----------------------------------------------------------------------------------------
+
+
+Processing Image: INSECTO DEFINITIVO LV3;RDS-SP007.jpeg                  Number: 94
+Extracted Tuple: ('INSECTO DEFINITIVO 1V -', 'RDS-SPO07', '34088136')
+
+Extracted Name: INSECTO DEFINITIVO 1V -
+Expected Name: INSECTO DEFINITIVO LV3
+
+Similarity Score between Extracted and Expected Name: 0.89
+Similarity is above the threshold of 0.7.
+
+Predicted set is: AUGE DEL DESTINO
+The set associated with this card's code is: AUGE DEL DESTINO
+Predicted card is: INSECTO DEFINITIVO LV3
+-----------------------------------------------------------------------------------------
+
+
+Processing Image: MOVIMIENTO DE DIFUSIÓN DE OLAS;RDS-SPSE1.jpeg                  Number: 95
+Extracted Tuple: ('MovIMIENTO DE DiFUSION D5', 'ROS-SPSE1', '87880531')
+
+Extracted Name: MovIMIENTO DE DiFUSION D5
+Expected Name: MOVIMIENTO DE DIFUSIÓN DE OLAS
+
+Similarity Score between Extracted and Expected Name: 0.84
+Similarity is above the threshold of 0.7.
+
+Predicted set is: AUGE DEL DESTINO
+The set associated with this card's code is: AUGE DEL DESTINO
+Predicted card is: Movimiento de Difusión de Olas
+-----------------------------------------------------------------------------------------
+
+
+Processing Image: HIENA;FET-SP017.jpeg                  Number: 96
+Extracted Tuple: ('HIENA', 'FET-SPO17', '22873798')
+
+Extracted Name: HIENA
+Expected Name: HIENA
+
+Similarity Score between Extracted and Expected Name: 1.00
+Similarity is above the threshold of 0.7.
+
+Predicted set is: ETERNIDAD LLAMEANTE
+The set associated with this card's code is: ETERNIDAD LLAMEANTE
+Predicted card is: HIENA
+-----------------------------------------------------------------------------------------
+
+
+Processing Image: CAMPEÓN KANGURO;FET-SP016.jpeg                  Number: 97
+Extracted Tuple: ('CAMPEÓN KANGURO', 'FrET-SPOTA', '95789089')
+
+Extracted Name: CAMPEÓN KANGURO
+Expected Name: CAMPEÓN KANGURO
+
+Similarity Score between Extracted and Expected Name: 1.00
+Similarity is above the threshold of 0.7.
+
+Predicted set is: ETERNIDAD LLAMEANTE
+The set associated with this card's code is: ETERNIDAD LLAMEANTE
+Predicted card is: CAMPEÓN KANGURO
+-----------------------------------------------------------------------------------------
+
+
+Processing Image: GATO DEL CATNIP;FET-SP013.jpeg                  Number: 98
+Extracted Tuple: ('GATO DEL CATNIP', 'FET-SPO13', '96501677')
+
+Extracted Name: GATO DEL CATNIP
+Expected Name: GATO DEL CATNIP
+
+Similarity Score between Extracted and Expected Name: 1.00
+Similarity is above the threshold of 0.7.
+
+Predicted set is: ETERNIDAD LLAMEANTE
+The set associated with this card's code is: ETERNIDAD LLAMEANTE
+Predicted card is: Gato del Catnip
+-----------------------------------------------------------------------------------------
+
+
+Processing Image: PEZ LUNA ESPACIAL;FET-SP001.jpeg                  Number: 99
+Extracted Tuple: ('PEZ LUNA ESPACIAL', 'FET-SPOO1', '36119641')
+
+Extracted Name: PEZ LUNA ESPACIAL
+Expected Name: PEZ LUNA ESPACIAL
+
+Similarity Score between Extracted and Expected Name: 1.00
+Similarity is above the threshold of 0.7.
+
+Predicted set is: ETERNIDAD LLAMEANTE
+The set associated with this card's code is: ETERNIDAD LLAMEANTE
+Predicted card is: Pez Luna Espacial
+-----------------------------------------------------------------------------------------
+
+
+Processing Image: RE-FUSIÓN;FET-SP047.jpeg                  Number: 100
+Extracted Tuple: ('RE-FUSIÓN', 'FET-SP047', '74654807')
+
+Extracted Name: RE-FUSIÓN
+Expected Name: RE-FUSIÓN
+
+Similarity Score between Extracted and Expected Name: 1.00
+Similarity is above the threshold of 0.7.
+
+Predicted set is: ETERNIDAD LLAMEANTE
+The set associated with this card's code is: ETERNIDAD LLAMEANTE
+Predicted card is: RE-FUSIÓN
+-----------------------------------------------------------------------------------------
+
+
+Processing Image: RUGIDO AMENAZANTE;FET-SP052.jpeg                  Number: 101
+Extracted Tuple: ('RUGIDO AMENAZANTE', 'FET-SPOS2', '$636 1633')
+
+Extracted Name: RUGIDO AMENAZANTE
+Expected Name: RUGIDO AMENAZANTE
+
+Similarity Score between Extracted and Expected Name: 1.00
+Similarity is above the threshold of 0.7.
+
+Predicted set is: ETERNIDAD LLAMEANTE
+The set associated with this card's code is: ETERNIDAD LLAMEANTE
+Predicted card is: Rugido Amenazante
+-----------------------------------------------------------------------------------------
+
+
+Processing Image: DESATADO;FET-SP044.jpeg                  Number: 102
+Extracted Tuple: ('DESATADO', 'FET-SPO44', 'EE 417459')
+
+Extracted Name: DESATADO
+Expected Name: DESATADO
+
+Similarity Score between Extracted and Expected Name: 1.00
+Similarity is above the threshold of 0.7.
+
+Predicted set is: ETERNIDAD LLAMEANTE
+The set associated with this card's code is: ETERNIDAD LLAMEANTE
+Predicted card is: DESATADO
+-----------------------------------------------------------------------------------------
+
+
+Processing Image: PÁJARO DE FUEGO;FET-SP032.jpeg                  Number: 103
+Extracted Tuple: ('PÁJARO DE FUEGO', 'FTET-SPO32', '87473172')
+
+Extracted Name: PÁJARO DE FUEGO
+Expected Name: PÁJARO DE FUEGO
+
+Similarity Score between Extracted and Expected Name: 1.00
+Similarity is above the threshold of 0.7.
+
+Predicted set is: ETERNIDAD LLAMEANTE
+The set associated with this card's code is: ETERNIDAD LLAMEANTE
+Predicted card is: PÁJARO DE FUEGO
+-----------------------------------------------------------------------------------------
+
+
+Processing Image: PRODIGIO DEL TORBELLINO;FET-SP030.jpeg                  Number: 104
+Extracted Tuple: ('PRODIGIO DEL TORBELLINO', 'FET-SPO030', '15090429')
+
+Extracted Name: PRODIGIO DEL TORBELLINO
+Expected Name: PRODIGIO DEL TORBELLINO
+
+Similarity Score between Extracted and Expected Name: 1.00
+Similarity is above the threshold of 0.7.
+
+Predicted set is: ETERNIDAD LLAMEANTE
+The set associated with this card's code is: ETERNIDAD LLAMEANTE
+Predicted card is: PRODIGIO DEL TORBELLINO
+-----------------------------------------------------------------------------------------
+
+
+Processing Image: ABARE USHIONI;FET-EN026.jpeg                  Number: 105
+Extracted Tuple: ('ABARE USHIONI', 'FET-ENO26', '897183072')
+
+Extracted Name: ABARE USHIONI
+Expected Name: ABARE USHIONI
+
+Similarity Score between Extracted and Expected Name: 1.00
+Similarity is above the threshold of 0.7.
+
+Predicted set is: ETERNIDAD LLAMEANTE
+The set associated with this card's code is: ETERNIDAD LLAMEANTE
+Predicted card is: ABARE USHIONI
+-----------------------------------------------------------------------------------------
+
+
+Processing Image: SAMURAI ARMADO - BEN KEI;FET-SP023.jpeg                  Number: 106
+Extracted Tuple: ('SAMURAI ARMADO - BEN KEI', 'FET-SPO23', '844300950')
+
+Extracted Name: SAMURAI ARMADO - BEN KEI
+Expected Name: SAMURAI ARMADO - BEN KEI
+
+Similarity Score between Extracted and Expected Name: 1.00
+Similarity is above the threshold of 0.7.
+
+Predicted set is: ETERNIDAD LLAMEANTE
+The set associated with this card's code is: ETERNIDAD LLAMEANTE
+Predicted card is: SAMURAI ARMADO - BEN KEI
+-----------------------------------------------------------------------------------------
+
+
+Processing Image: CHIRON EL MAGO;FET-SP021.jpeg                  Number: 107
+Extracted Tuple: ('d EL MAGO', 'FET-SPO21', '16956455')
+
+Extracted Name: d EL MAGO
+Expected Name: CHIRON EL MAGO
+
+Similarity Score between Extracted and Expected Name: 0.70
+Similarity is below the threshold of 0.7.
+
+Predicted set is: ETERNIDAD LLAMEANTE
+The set associated with this card's code is: ETERNIDAD LLAMEANTE
+Predicted card is: Chiron el Mago
+-----------------------------------------------------------------------------------------
+
+
+Processing Image: MECH-PERRO MARRON;FET-SP019.jpeg                  Number: 108
+Extracted Tuple: ('MECH-PERRO MARRON', 'FET-SPO19', '94667532')
+
+Extracted Name: MECH-PERRO MARRON
+Expected Name: MECH-PERRO MARRON
+
+Similarity Score between Extracted and Expected Name: 1.00
+Similarity is above the threshold of 0.7.
+
+Predicted set is: ETERNIDAD LLAMEANTE
+The set associated with this card's code is: ETERNIDAD LLAMEANTE
+Predicted card is: MECH-PERRO MARRON
+-----------------------------------------------------------------------------------------
+
+
+Processing Image: ¡EL REGRESO DE LOS SEIS SAMURÁIS!;STON-SP051.jpeg                  Number: 109
+Extracted Tuple: ('¡EL REGRESO DE LOS SEIS SAMURÁIS!', 'STON-SPOS1', '46874015')
+
+Extracted Name: ¡EL REGRESO DE LOS SEIS SAMURÁIS!
+Expected Name: ¡EL REGRESO DE LOS SEIS SAMURÁIS!
+
+Similarity Score between Extracted and Expected Name: 1.00
+Similarity is above the threshold of 0.7.
+
+Predicted set is: GOLPE DE NEOS
+The set associated with this card's code is: GOLPE DE NEOS
+Predicted card is: ¡El Regreso de los Seis Samuráis!
+-----------------------------------------------------------------------------------------
+
+
+Processing Image: ABISMO SILENCIOSO;STON-SP025.jpeg                  Number: 110
+Extracted Tuple: ('ABISMO SILENCIOSO', 'STON-SPO?5', '80442081')
+
+Extracted Name: ABISMO SILENCIOSO
+Expected Name: ABISMO SILENCIOSO
+
+Similarity Score between Extracted and Expected Name: 1.00
+Similarity is above the threshold of 0.7.
+
+Predicted set is: GOLPE DE NEOS
+The set associated with this card's code is: GOLPE DE NEOS
+Predicted card is: ABISMO SILENCIOSO
+-----------------------------------------------------------------------------------------
+
+
+Processing Image: ÁCARO MARIONETA;STON-SP023.jpeg                  Number: 111
+Extracted Tuple: ('ÁCARO MARIONETA', 'STON-SPO723', '87514539')
+
+Extracted Name: ÁCARO MARIONETA
+Expected Name: ÁCARO MARIONETA
+
+Similarity Score between Extracted and Expected Name: 1.00
+Similarity is above the threshold of 0.7.
+
+Predicted set is: GOLPE DE NEOS
+The set associated with this card's code is: GOLPE DE NEOS
+Predicted card is: ÁCARO MARIONETA
+-----------------------------------------------------------------------------------------
+
+
+Processing Image: ALMA DE LA SOMBRA;STON-SP030.jpeg                  Number: 112
+Extracted Tuple: ('ALMA DE LA SOMBRA', 'STON-SPO30', '86229493')
+
+Extracted Name: ALMA DE LA SOMBRA
+Expected Name: ALMA DE LA SOMBRA
+
+Similarity Score between Extracted and Expected Name: 1.00
+Similarity is above the threshold of 0.7.
+
+Predicted set is: GOLPE DE NEOS
+The set associated with this card's code is: GOLPE DE NEOS
+Predicted card is: ALMA DE LA SOMBRA
+-----------------------------------------------------------------------------------------
+
+
+Processing Image: CAMBIACARTA;STON-SP046.jpeg                  Number: 113
+Extracted Tuple: ('CAMBIACARTA', 'STON-SPO46', '* YAVAL: 7')
+
+Extracted Name: CAMBIACARTA
+Expected Name: CAMBIACARTA
+
+Similarity Score between Extracted and Expected Name: 1.00
+Similarity is above the threshold of 0.7.
+
+Predicted set is: GOLPE DE NEOS
+The set associated with this card's code is: GOLPE DE NEOS
+Predicted card is: Cambiacarta
+-----------------------------------------------------------------------------------------
+
+
+Processing Image: CAMBIO DE HÉROE - RAYO REFLECTOR;STON-SP049.jpeg                  Number: 114
+Extracted Tuple: ('CAMBIO DE HÉROE - RAYO REFLECTOR', 'STON-SPO49', '74095602')
+
+Extracted Name: CAMBIO DE HÉROE - RAYO REFLECTOR
+Expected Name: CAMBIO DE HÉROE - RAYO REFLECTOR
+
+Similarity Score between Extracted and Expected Name: 1.00
+Similarity is above the threshold of 0.7.
+
+Predicted set is: GOLPE DE NEOS
+The set associated with this card's code is: GOLPE DE NEOS
+Predicted card is: Cambio de Héroe - Rayo Reflector
+-----------------------------------------------------------------------------------------
+
+
+Processing Image: CICLÓN DESTRUCTIVO;STON-SP028.jpeg                  Number: 115
+Extracted Tuple: ('CICLÓN DESTRUCTIVO', 'SIÓON-SP028', '59235795')
+
+Extracted Name: CICLÓN DESTRUCTIVO
+Expected Name: CICLÓN DESTRUCTIVO
+
+Similarity Score between Extracted and Expected Name: 1.00
+Similarity is above the threshold of 0.7.
+
+Predicted set is: GOLPE DE NEOS
+The set associated with this card's code is: GOLPE DE NEOS
+Predicted card is: Ciclón Destructivo
+-----------------------------------------------------------------------------------------
+
+
+Processing Image: CONJURO DE SÍNTESIS;STON-SP043.jpeg                  Number: 116
+Extracted Tuple: ('CONJURO DE SÍNTESIS', 'STON-SP043', '244003É')
+
+Extracted Name: CONJURO DE SÍNTESIS
+Expected Name: CONJURO DE SÍNTESIS
+
+Similarity Score between Extracted and Expected Name: 1.00
+Similarity is above the threshold of 0.7.
+
+Predicted set is: GOLPE DE NEOS
+The set associated with this card's code is: GOLPE DE NEOS
+Predicted card is: Conjuro de Síntesis
+-----------------------------------------------------------------------------------------
+
+
+Processing Image: CORCEL DE ÉBANO LEGENDARIO;STON-SP040.jpeg                  Number: 117
+Extracted Tuple: ('CORCEL DE ÉBANO LEGENDARIÓ', 'STON-SPO40', '3724548')
+
+Extracted Name: CORCEL DE ÉBANO LEGENDARIÓ
+Expected Name: CORCEL DE ÉBANO LEGENDARIO
+
+Similarity Score between Extracted and Expected Name: 0.96
+Similarity is above the threshold of 0.7.
+
+Predicted set is: GOLPE DE NEOS
+The set associated with this card's code is: GOLPE DE NEOS
+Predicted card is: Corcel de Ébano Legendario
+-----------------------------------------------------------------------------------------
+
+
+Processing Image: CÚCHULAINN EL DESPIERTO;STON-SP033 (v2).jpeg                  Number: 118
+Extracted Tuple: ('CÚCHULAINN EL DESPIERTO', 'ST UN-SPO33', '107899727')
+
+Extracted Name: CÚCHULAINN EL DESPIERTO
+Expected Name: CÚCHULAINN EL DESPIERTO
+
+Similarity Score between Extracted and Expected Name: 1.00
+Similarity is above the threshold of 0.7.
+
+Predicted set is: GOLPE DE NEOS
+The set associated with this card's code is: GOLPE DE NEOS
+Predicted card is: Cúchulainn el Despierto
+-----------------------------------------------------------------------------------------
+
+
+Processing Image: CÚCHULAINN EL DESPIERTO;STON-SP033.jpeg                  Number: 119
+Extracted Tuple: ('CÚCHULAINN EL DESPIERTO', 'SON-SPO33', '10789972')
+
+Extracted Name: CÚCHULAINN EL DESPIERTO
+Expected Name: CÚCHULAINN EL DESPIERTO
+
+Similarity Score between Extracted and Expected Name: 1.00
+Similarity is above the threshold of 0.7.
+
+Predicted set is: GOLPE DE NEOS
+The set associated with this card's code is: GOLPE DE NEOS
+Predicted card is: Cúchulainn el Despierto
+-----------------------------------------------------------------------------------------
+
+
+Processing Image: DE CAPA Y ESPADA;STON-SP059.jpeg                  Number: 120
+Extracted Tuple: ('De CAPA Y ESPADA', 'STON-SPOS9', '08323633')
+
+Extracted Name: De CAPA Y ESPADA
+Expected Name: DE CAPA Y ESPADA
+
+Similarity Score between Extracted and Expected Name: 1.00
+Similarity is above the threshold of 0.7.
+
+Predicted set is: GOLPE DE NEOS
+The set associated with this card's code is: GOLPE DE NEOS
+Predicted card is: DE CAPA Y ESPADA
+-----------------------------------------------------------------------------------------
+
+
+Processing Image: DESTELLO;STON-SP053.jpeg                  Number: 121
+Extracted Tuple: ('DESTELLO', 'STON-SPOS3', '09267769')
+
+Extracted Name: DESTELLO
+Expected Name: DESTELLO
+
+Similarity Score between Extracted and Expected Name: 1.00
+Similarity is above the threshold of 0.7.
+
+Predicted set is: GOLPE DE NEOS
+The set associated with this card's code is: GOLPE DE NEOS
+Predicted card is: DESTELLO
+-----------------------------------------------------------------------------------------
+
+
+Processing Image: DEVORADOR DE FUSIÓN;STON-SP020.jpeg                  Number: 122
+Extracted Tuple: ('DEYORADOR DE Fustons', 'STON-SPOZ0', '98336111')
+
+Extracted Name: DEYORADOR DE Fustons
+Expected Name: DEVORADOR DE FUSIÓN
+
+Similarity Score between Extracted and Expected Name: 0.82
+Similarity is above the threshold of 0.7.
+
+Predicted set is: GOLPE DE NEOS
+The set associated with this card's code is: GOLPE DE NEOS
+Predicted card is: DEVORADOR DE FUSIÓN
+-----------------------------------------------------------------------------------------
+
+
+Processing Image: EL CASTILLO DE NIEBLA DE SHIEN;STON-SP047.jpeg                  Number: 123
+Extracted Tuple: ('EL CASTILLO DE NIEBLA DE SHIEN', 'STON-SPO47', 'E 029208')
+
+Extracted Name: EL CASTILLO DE NIEBLA DE SHIEN
+Expected Name: EL CASTILLO DE NIEBLA DE SHIEN
+
+Similarity Score between Extracted and Expected Name: 1.00
+Similarity is above the threshold of 0.7.
+
+Predicted set is: GOLPE DE NEOS
+The set associated with this card's code is: GOLPE DE NEOS
+Predicted card is: El Castillo de Niebla de Shien
+-----------------------------------------------------------------------------------------
+
+
+Processing Image: ELIMINAR LA LIGA;STON-SP052.jpeg                  Number: 124
+Extracted Tuple: ('EFLIMINAR LA LIGA', 'STON-SPOS2', '73872164')
+
+Extracted Name: EFLIMINAR LA LIGA
+Expected Name: ELIMINAR LA LIGA
+
+Similarity Score between Extracted and Expected Name: 0.97
+Similarity is above the threshold of 0.7.
+
+Predicted set is: GOLPE DE NEOS
+The set associated with this card's code is: GOLPE DE NEOS
+Predicted card is: Eliminar la Liga
+-----------------------------------------------------------------------------------------
+
+
+Processing Image: EMBLEMA DEL DESPERTAR;STON-SP044 (v2).jpeg                  Number: 125
+Extracted Tuple: ('EMBLEMA DEL DESPERTAR', 'STON-SP044', 'DS 45738')
+
+Extracted Name: EMBLEMA DEL DESPERTAR
+Expected Name: EMBLEMA DEL DESPERTAR
+
+Similarity Score between Extracted and Expected Name: 1.00
+Similarity is above the threshold of 0.7.
+
+Predicted set is: GOLPE DE NEOS
+The set associated with this card's code is: GOLPE DE NEOS
+Predicted card is: Emblema del Despertar
+-----------------------------------------------------------------------------------------
+
+
+Processing Image: FUERZA NEOS;STON-SP039.jpeg                  Number: 126
+Extracted Tuple: ('FUERZA NEOS', 'STON-SPO39', '47774077')
+
+Extracted Name: FUERZA NEOS
+Expected Name: FUERZA NEOS
+
+Similarity Score between Extracted and Expected Name: 1.00
+Similarity is above the threshold of 0.7.
+
+Predicted set is: GOLPE DE NEOS
+The set associated with this card's code is: GOLPE DE NEOS
+Predicted card is: FUERZA NEOS
+-----------------------------------------------------------------------------------------
+
+
+Processing Image: LA PROFECÍA DE LA TRASMIGRACIÓN;STON-SP054.jpeg                  Number: 127
+Extracted Tuple: ('LA PROFECÍA DE LA TRASMIGRACION', 'STON-SPOS4', '46652477')
+
+Extracted Name: LA PROFECÍA DE LA TRASMIGRACION
+Expected Name: LA PROFECÍA DE LA TRASMIGRACIÓN
+
+Similarity Score between Extracted and Expected Name: 0.97
+Similarity is above the threshold of 0.7.
+
+Predicted set is: GOLPE DE NEOS
+The set associated with this card's code is: GOLPE DE NEOS
+Predicted card is: LA PROFECÍA DE LA TRASMIGRACIÓN
+-----------------------------------------------------------------------------------------
+
+
+Processing Image: LICÁNTROPO;STON-SP032.jpeg                  Number: 128
+Extracted Tuple: ('LICANTROPO', 'STHOUN-SPOI2', '84385264')
+
+Extracted Name: LICANTROPO
+Expected Name: LICÁNTROPO
+
+Similarity Score between Extracted and Expected Name: 0.90
+Similarity is above the threshold of 0.7.
+
+Predicted set is: GOLPE DE NEOS
+The set associated with this card's code is: GOLPE DE NEOS
+Predicted card is: Licántropo
+-----------------------------------------------------------------------------------------
+
+
+Processing Image: LOBO DE GUERRA DE GENES CAMBIADOS;STON-SP001.jpeg                  Number: 129
+Extracted Tuple: ('LoB0 DE GUERRA DE GENES CAMBIADOS', 'STON-SPOO1', '69247929')
+
+Extracted Name: LoB0 DE GUERRA DE GENES CAMBIADOS
+Expected Name: LOBO DE GUERRA DE GENES CAMBIADOS
+
+Similarity Score between Extracted and Expected Name: 0.97
+Similarity is above the threshold of 0.7.
+
+Predicted set is: GOLPE DE NEOS
+The set associated with this card's code is: GOLPE DE NEOS
+Predicted card is: Lobo de Guerra de Genes Cambiados
+-----------------------------------------------------------------------------------------
+
+
+Processing Image: LOS SEIS SAMURÁIS - IROU;STON-SP012.jpeg                  Number: 130
+Extracted Tuple: ('Los SEIS SAMURAIS - IROU', 'STON-SPO12', '27782503')
+
+Extracted Name: Los SEIS SAMURAIS - IROU
+Expected Name: LOS SEIS SAMURÁIS - IROU
+
+Similarity Score between Extracted and Expected Name: 0.96
+Similarity is above the threshold of 0.7.
+
+Predicted set is: GOLPE DE NEOS
+The set associated with this card's code is: GOLPE DE NEOS
+Predicted card is: Los Seis Samuráis - Irou
+-----------------------------------------------------------------------------------------
+
+
+Processing Image: LOS SEIS SAMURÁIS - KAMON;STON-SP008.jpeg                  Number: 131
+Extracted Tuple: ('Los SEIS SAMURAIS - KAMON', 'STON-SPOOS', '90397998')
+
+Extracted Name: Los SEIS SAMURAIS - KAMON
+Expected Name: LOS SEIS SAMURÁIS - KAMON
+
+Similarity Score between Extracted and Expected Name: 0.96
+Similarity is above the threshold of 0.7.
+
+Predicted set is: GOLPE DE NEOS
+The set associated with this card's code is: GOLPE DE NEOS
+Predicted card is: Los Seis Samuráis - Kamon
+-----------------------------------------------------------------------------------------
+
+
+Processing Image: LOS SEIS SAMURÁIS - YAICHI;STON-SP007.jpeg                  Number: 132
+Extracted Tuple: ('Los SEIS SAMURAIS - YAICHI', 'STON-SPO0O7', '64398890')
+
+Extracted Name: Los SEIS SAMURAIS - YAICHI
+Expected Name: LOS SEIS SAMURÁIS - YAICHI
+
+Similarity Score between Extracted and Expected Name: 0.96
+Similarity is above the threshold of 0.7.
+
+Predicted set is: GOLPE DE NEOS
+The set associated with this card's code is: GOLPE DE NEOS
+Predicted card is: Los Seis Samuráis - Yaichi
+-----------------------------------------------------------------------------------------
+
+
+Processing Image: LOS SEIS SAMURÁIS - ZANJI;STON-SP011.jpeg                  Number: 133
+Extracted Tuple: ('Los SEIS SAMURÁIS - ZANJI', 'STON-SPO11', 'P ANSEL E')
+
+Extracted Name: Los SEIS SAMURÁIS - ZANJI
+Expected Name: LOS SEIS SAMURÁIS - ZANJI
+
+Similarity Score between Extracted and Expected Name: 1.00
+Similarity is above the threshold of 0.7.
+
+Predicted set is: GOLPE DE NEOS
+The set associated with this card's code is: GOLPE DE NEOS
+Predicted card is: LOS SEIS SAMURÁIS - ZANJI
+-----------------------------------------------------------------------------------------
+
+
+Processing Image: MECANISMO ANTI-FUSIÓN;STON-SP055.jpeg                  Number: 134
+Extracted Tuple: ('MECANISMO ANTI-FUSIÓN', 'STON-SPOSS', '721505772')
+
+Extracted Name: MECANISMO ANTI-FUSIÓN
+Expected Name: MECANISMO ANTI-FUSIÓN
+
+Similarity Score between Extracted and Expected Name: 1.00
+Similarity is above the threshold of 0.7.
+
+Predicted set is: GOLPE DE NEOS
+The set associated with this card's code is: GOLPE DE NEOS
+Predicted card is: MECANISMO ANTI-FUSIÓN
+-----------------------------------------------------------------------------------------
+
+
+Processing Image: MEDALLA DE HÉROE;STON-SP050.jpeg                  Number: 135
+Extracted Tuple: ('MEDALLA DE HEROE', 'STON-SPOSO', '10489311')
+
+Extracted Name: MEDALLA DE HEROE
+Expected Name: MEDALLA DE HÉROE
+
+Similarity Score between Extracted and Expected Name: 0.94
+Similarity is above the threshold of 0.7.
+
+Predicted set is: GOLPE DE NEOS
+The set associated with this card's code is: GOLPE DE NEOS
+Predicted card is: MEDALLA DE HÉROE
+-----------------------------------------------------------------------------------------
+
+
+Processing Image: MUSGO REFULGENTE NEO ESPACIAL;STON-SP006.jpeg                  Number: 136
+Extracted Tuple: ('Musco REFULGENTE NEO ESPACIAL', 'STON-SPOOS', '1773727278')
+
+Extracted Name: Musco REFULGENTE NEO ESPACIAL
+Expected Name: MUSGO REFULGENTE NEO ESPACIAL
+
+Similarity Score between Extracted and Expected Name: 0.97
+Similarity is above the threshold of 0.7.
+
+Predicted set is: GOLPE DE NEOS
+The set associated with this card's code is: GOLPE DE NEOS
+Predicted card is: Musgo Refulgente Neo Espacial
+-----------------------------------------------------------------------------------------
+
+
+Processing Image: PLANTA TÍTERE;STON-SP022.jpeg                  Number: 137
+Extracted Tuple: ('PLANTA TÍTERE', 'STON-SPO22', '51119924')
+
+Extracted Name: PLANTA TÍTERE
+Expected Name: PLANTA TÍTERE
+
+Similarity Score between Extracted and Expected Name: 1.00
+Similarity is above the threshold of 0.7.
+
+Predicted set is: GOLPE DE NEOS
+The set associated with this card's code is: GOLPE DE NEOS
+Predicted card is: PLANTA TÍTERE
+-----------------------------------------------------------------------------------------
+
+
+Processing Image: PSÍQUICO ALIEN;STON-SP031.jpeg                  Number: 138
+Extracted Tuple: ('PSÍQUICO ALIEN', 'STON-SPO.31', '58012107')
+
+Extracted Name: PSÍQUICO ALIEN
+Expected Name: PSÍQUICO ALIEN
+
+Similarity Score between Extracted and Expected Name: 1.00
+Similarity is above the threshold of 0.7.
+
+Predicted set is: GOLPE DE NEOS
+The set associated with this card's code is: GOLPE DE NEOS
+Predicted card is: PSÍQUICO ALIEN
+-----------------------------------------------------------------------------------------
+
+
+Processing Image: REGLAS ANTIGUAS;STON-SP037.jpeg                  Number: 139
+Extracted Tuple: ('REGLAS ANTIGUAS', 'STON-SP037', '10667321')
+
+Extracted Name: REGLAS ANTIGUAS
+Expected Name: REGLAS ANTIGUAS
+
+Similarity Score between Extracted and Expected Name: 1.00
+Similarity is above the threshold of 0.7.
+
+Predicted set is: GOLPE DE NEOS
+The set associated with this card's code is: GOLPE DE NEOS
+Predicted card is: REGLAS ANTIGUAS
+-----------------------------------------------------------------------------------------
+
+
+Processing Image: SABIA DEL SILENCIO;STON-SP015.jpeg                  Number: 140
+Extracted Tuple: ('SABIA DEL SILENCIO', 'STON-SPOLS', '26669055')
+
+Extracted Name: SABIA DEL SILENCIO
+Expected Name: SABIA DEL SILENCIO
+
+Similarity Score between Extracted and Expected Name: 1.00
+Similarity is above the threshold of 0.7.
+
+Predicted set is: GOLPE DE NEOS
+The set associated with this card's code is: GOLPE DE NEOS
+Predicted card is: Sabia del Silencio
+-----------------------------------------------------------------------------------------
+
+
+Processing Image: SABIO DE LA QUIETUD;STON-SP016.jpeg                  Number: 141
+Extracted Tuple: ('SABIO DE LA QUIETUD', 'STON-SPO16', '62054060')
+
+Extracted Name: SABIO DE LA QUIETUD
+Expected Name: SABIO DE LA QUIETUD
+
+Similarity Score between Extracted and Expected Name: 1.00
+Similarity is above the threshold of 0.7.
+
+Predicted set is: GOLPE DE NEOS
+The set associated with this card's code is: GOLPE DE NEOS
+Predicted card is: Sabio de la Quietud
+-----------------------------------------------------------------------------------------
+
+
+Processing Image: SERPIENTE ESPIRAL;STON-SP003.jpeg                  Number: 142
+Extracted Tuple: ('SERPIENTE ESPIRAL', 'S TON-SPOOZ3', '32626733')
+
+Extracted Name: SERPIENTE ESPIRAL
+Expected Name: SERPIENTE ESPIRAL
+
+Similarity Score between Extracted and Expected Name: 1.00
+Similarity is above the threshold of 0.7.
+
+Predicted set is: GOLPE DE NEOS
+The set associated with this card's code is: GOLPE DE NEOS
+Predicted card is: SERPIENTE ESPIRAL
+-----------------------------------------------------------------------------------------
+
+
+Processing Image: TORNADO;STON-SP042.jpeg                  Number: 143
+Extracted Tuple: ('TORNADO', 'STON-$P042', 'EOO I RÁT')
+
+Extracted Name: TORNADO
+Expected Name: TORNADO
+
+Similarity Score between Extracted and Expected Name: 1.00
+Similarity is above the threshold of 0.7.
+
+Predicted set is: GOLPE DE NEOS
+The set associated with this card's code is: GOLPE DE NEOS
+Predicted card is: TORNADO
+-----------------------------------------------------------------------------------------
+
+
+Processing Image: MOKEY MOKEY ENFURECIDO;DR3-SP103.jpeg                  Number: 144
+Extracted Tuple: ('MoKey MoKey ENFURECIDO', 'DRI-SP1IO3', '965724')
+
+Extracted Name: MoKey MoKey ENFURECIDO
+Expected Name: MOKEY MOKEY ENFURECIDO
+
+Similarity Score between Extracted and Expected Name: 1.00
+Similarity is above the threshold of 0.7.
+
+Predicted set is: REVELACIÓN OSCURA VOLUMEN 3
+The set associated with this card's code is: REVELACIÓN OSCURA VOLUMEN 3
+Predicted card is: MOKEY MOKEY ENFURECIDO
+-----------------------------------------------------------------------------------------
+
+
+Processing Image: ATAQUE DOBLE;DR3-SP220.jpeg                  Number: 145
+Extracted Tuple: ('ATAQUE DOBLE', 'DR3-SP220', '24187685')
+
+Extracted Name: ATAQUE DOBLE
+Expected Name: ATAQUE DOBLE
+
+Similarity Score between Extracted and Expected Name: 1.00
+Similarity is above the threshold of 0.7.
+
+Predicted set is: REVELACIÓN OSCURA VOLUMEN 3
+The set associated with this card's code is: REVELACIÓN OSCURA VOLUMEN 3
+Predicted card is: Ataque Doble
+-----------------------------------------------------------------------------------------
+
+
+Processing Image: AUSSA LA ENCANTADORA DE LA TIERRA;DR3-SP206.jpeg                  Number: 146
+Extracted Tuple: ('AUSSA LA ENCANTADORA DE LA TIERRA', 'DK3-S?P206', '37970940')
+
+Extracted Name: AUSSA LA ENCANTADORA DE LA TIERRA
+Expected Name: AUSSA LA ENCANTADORA DE LA TIERRA
+
+Similarity Score between Extracted and Expected Name: 1.00
+Similarity is above the threshold of 0.7.
+
+Predicted set is: REVELACIÓN OSCURA VOLUMEN 3
+The set associated with this card's code is: REVELACIÓN OSCURA VOLUMEN 3
+Predicted card is: Aussa la Encantadora de la Tierra
+-----------------------------------------------------------------------------------------
+
+
+Processing Image: BENDICIÓN DE DORIADO;DR3-SP223.jpeg                  Number: 147
+Extracted Tuple: ('BENDICIÓN DE DORIADO', 'DR3-S1223', '9 65039')
+
+Extracted Name: BENDICIÓN DE DORIADO
+Expected Name: BENDICIÓN DE DORIADO
+
+Similarity Score between Extracted and Expected Name: 1.00
+Similarity is above the threshold of 0.7.
+
+Predicted set is: REVELACIÓN OSCURA VOLUMEN 3
+The set associated with this card's code is: REVELACIÓN OSCURA VOLUMEN 3
+Predicted card is: Bendición de Doriado
+-----------------------------------------------------------------------------------------
+
+
+Processing Image: CARGADOR DE PILAS;DR3-SP221.jpeg                  Number: 148
+Extracted Tuple: ('CARGADOR DE PILAS', 'DR3-SP221', '61181383')
+
+Extracted Name: CARGADOR DE PILAS
+Expected Name: CARGADOR DE PILAS
+
+Similarity Score between Extracted and Expected Name: 1.00
+Similarity is above the threshold of 0.7.
+
+Predicted set is: REVELACIÓN OSCURA VOLUMEN 3
+The set associated with this card's code is: REVELACIÓN OSCURA VOLUMEN 3
+Predicted card is: Cargador de Pilas
+-----------------------------------------------------------------------------------------
+
+
+Processing Image: CINTURÓN NEGRO LEGENDARIO;DR3-SP225.jpeg                  Number: 149
+Extracted Tuple: ('CINTURÓN NEGRO LEGENDARIO', 'DR3-SP275', '4584140')
+
+Extracted Name: CINTURÓN NEGRO LEGENDARIO
+Expected Name: CINTURÓN NEGRO LEGENDARIO
+
+Similarity Score between Extracted and Expected Name: 1.00
+Similarity is above the threshold of 0.7.
+
+Predicted set is: REVELACIÓN OSCURA VOLUMEN 3
+The set associated with this card's code is: REVELACIÓN OSCURA VOLUMEN 3
+Predicted card is: CINTURÓN NEGRO LEGENDARIO
+-----------------------------------------------------------------------------------------
+
+
+Processing Image: DON DEL MÁRTIR;DR3-SP219.jpeg                  Number: 150
+Extracted Tuple: ('DoN DEL MÁRTIR', 'DR3-SP219', '987972570')
+
+Extracted Name: DoN DEL MÁRTIR
+Expected Name: DON DEL MÁRTIR
+
+Similarity Score between Extracted and Expected Name: 1.00
+Similarity is above the threshold of 0.7.
+
+Predicted set is: REVELACIÓN OSCURA VOLUMEN 3
+The set associated with this card's code is: REVELACIÓN OSCURA VOLUMEN 3
+Predicted card is: Don del Mártir
+-----------------------------------------------------------------------------------------
+
+
+Processing Image: ERIA LA ENCANTADORA DEL AGUA;DR3-SP207.jpeg                  Number: 151
+Extracted Tuple: ('ERIA LA ENCANTADORA DEL AGUA', 'DR3-SP207', '74364659')
+
+Extracted Name: ERIA LA ENCANTADORA DEL AGUA
+Expected Name: ERIA LA ENCANTADORA DEL AGUA
+
+Similarity Score between Extracted and Expected Name: 1.00
+Similarity is above the threshold of 0.7.
+
+Predicted set is: REVELACIÓN OSCURA VOLUMEN 3
+The set associated with this card's code is: REVELACIÓN OSCURA VOLUMEN 3
+Predicted card is: Eria la Encantadora del Agua
+-----------------------------------------------------------------------------------------
+
+
+Processing Image: ESTATUA GUARDIANA;DR3-SP201.jpeg                  Number: 152
+Extracted Tuple: ('ESTATUA GUARDIANA', 'DR3-SP201', '7521)9824')
+
+Extracted Name: ESTATUA GUARDIANA
+Expected Name: ESTATUA GUARDIANA
+
+Similarity Score between Extracted and Expected Name: 1.00
+Similarity is above the threshold of 0.7.
+
+Predicted set is: REVELACIÓN OSCURA VOLUMEN 3
+The set associated with this card's code is: REVELACIÓN OSCURA VOLUMEN 3
+Predicted card is: ESTATUA GUARDIANA
+-----------------------------------------------------------------------------------------
+
+
+Processing Image: GOLEM DE MINA;DR3-SP198 (2).jpeg                  Number: 153
+Extracted Tuple: ('GOLEM DE MINA', 'DR3I-SP198', '76321376')
+
+Extracted Name: GOLEM DE MINA
+Expected Name: GOLEM DE MINA
+
+Similarity Score between Extracted and Expected Name: 1.00
+Similarity is above the threshold of 0.7.
+
+Predicted set is: REVELACIÓN OSCURA VOLUMEN 3
+The set associated with this card's code is: REVELACIÓN OSCURA VOLUMEN 3
+Predicted card is: GOLEM DE MINA
+-----------------------------------------------------------------------------------------
+
+
+Processing Image: GOLEM DE MINA;DR3-SP198.jpeg                  Number: 154
+Extracted Tuple: ('GOLEM DE MINA', 'DR3I-5P198', '76321376')
+
+Extracted Name: GOLEM DE MINA
+Expected Name: GOLEM DE MINA
+
+Similarity Score between Extracted and Expected Name: 1.00
+Similarity is above the threshold of 0.7.
+
+Predicted set is: REVELACIÓN OSCURA VOLUMEN 3
+The set associated with this card's code is: REVELACIÓN OSCURA VOLUMEN 3
+Predicted card is: GOLEM DE MINA
+-----------------------------------------------------------------------------------------
+

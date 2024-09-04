@@ -1,0 +1,24 @@
+Passcode$Name$Status$Attribute$type$link$link_arrows$rank$pendulum_scale$level$attack$defense$spell_attribute$summoning_condition$pendulum_condition$card_text$card_supports$card_anti_supports$card_actions$effect_types$
+26439287$Proto Cíber Dragón$Unlimited$LUZ$[Máquina/Efecto]$$$$$Nivel 3$1100$600$$$$El nombre de esta carta se convierte en "Ciber Dragón" mientras está en el Campo.$Cyber Dragon$$$Continuous$
+47754278$Dragón Infernal$Unlimited$OSCURIDAD$[Dragón/Efecto]$$$$$Nivel 4$2000$0$$$$Una vez por turno, durante la End Phase, si esta carta atacó este turno: destruye esta carta. Cuando esta carta en el Campo es destruida y mandada al Cementerio: puedes Sacrificar 1 monstruo; Invoca esta carta de Modo Especial desde el Cementerio.$$$Activates from your Graveyard/Tributes for cost$Trigger$
+64599569$Súper Dragón Chimeratech$Unlimited$OSCURIDAD$[Máquina/Fusión/Efecto]$$$$$Nivel 9$?$?$$$$"Ciber Dragón" + 1+ monstruos MáquinaDebe ser Invocado por Fusión. Si esta carta es Invocada por Fusión: manda al Cementerio todas las demás cartas que controles. El ATK/DEF originales de esta carta se convierten, cada uno, en el número de Materiales de Fusión que utilizaste para su Invocación por Fusión x 800. Cada Battle Phase, esta carta puede atacar los monstruos de tu adversario hasta tantas veces como Materiales de Fusión usados para su Invocación por Fusión.$Machine$$Activates upon Fusion Summon/Sends from your field to your Graveyard$Summon/Trigger/Continuous$
+05318639$Tifón del Espacio Místico$Unlimited$MÁGICA$$$$$$$$$Juego Rápido$$$Selecciona 1 Mágica/Trampa en el Campo; destruye ese objetivo.$$$$Effect$
+31036355$Intercambio de Criatura$Unlimited$MÁGICA$$$$$$$$$$$$Cada jugador elige 1 monstruo que controle e intercambia el control de ese monstruo con el otro jugador. Por el resto de este turno, esos monstruos no pueden cambiar sus posiciones de batalla.$$$Changes control/Prevents Battle Position changes$Effect/Condition$
+66607691$Unidad Generadora de Fotones$Unlimited$MÁGICA$$$$$$$$$Juego Rápido$$$(Esta carta se trata siempre como una carta "Fotónico/a").Sacrifica 2 "Ciber Dragón" en tu Campo para activar esta carta. Invoca mediante una Invocación Especial 1 "Dragón Ciber Láser" de tu mano, Deck o Cementerio.$Cyber Dragon/Cyber Laser Dragon$$Tributes for cost$Cost/Effect$
+03659803$Sobrecarga de Fusión$Unlimited$MÁGICA$$$$$$$$$$$$Invoca por Fusión, desde tu Deck Extra, 1 Monstruo de Fusión Máquina de OSCURIDAD, desterrando de tu Campo o Cementerio Materiales de Fusión mencionados en él.$DARK/Machine/Fusion Monster$$Uses cards on the player's field as Fusion Materials/Uses cards in the player's Graveyard as Fusion Materials$Effect$
+97077563$Llamada de los Condenados$Unlimited$TRAMPA$$$$$$$$$Continua$$$Activa esta carta seleccionando 1 monstruo en tu Cementerio; Invoca ese objetivo de Modo Especial en Posición de Ataque. Cuando esta carta deja el Campo, destruye ese monstruo. Cuando ese monstruo es destruido, destruye esta carta.$$$$Effect/Continuous-like$
+91989718$Unidad Reflectante de Ataques$Unlimited$TRAMPA$$$$$$$$$$$$Sacrifica 1 "Ciber Dragón" en tu Campo para activar esta carta. Invoca mediante una Invocación Especial 1 "Ciber Dragón Barrera" de tu mano o Deck.$Cyber Dragon/Cyber Barrier Dragon$$Tributes for cost$Cost/Effect$
+10537981$Regresar el Alma$Unlimited$TRAMPA$$$$$$$$$$$$Activa esta carta sólo durante la End Phase. Puedes regresar hasta 3 monstruos que hayan sido destruidos este turno de los Cementerios de sus dueños a sus respectivas Decks.$$$Returns from your Graveyard to your Deck/Returns from your opponent's Graveyard to your opponent's Deck$Activation requirement/Effect$
+73026394$Guardia de Fusión$Unlimited$TRAMPA$$$$$$$$$Contraefecto$$$Activa esta carta sólo cuando un efecto que inflige daño sea activado. Niega su activación y efecto, y manda 1 Monstruo de Fusión al azar de tu Deck Extra al Cementerio.$Fusion Monster$$Sends from Extra Deck to Graveyard$Activation requirement/Effect$
+11961740$CÁPSULA DE OTRA DIMENSIÓN$
+68774379$CÍBER DRAGÓN BARRERA$
+01546123$CÍBER DRAGÓN FINAL$
+04162088$CÍBER DRAGÓN LÁSER$
+03370104$CÍBER FÉNIX$
+76986005$CÍBER KIRIN$
+95286165$DE-FUSIÓN$
+19252988$DISRUPTOR DE TRAMPA$
+77625948$FILO CIBEROSCURO$
+77565204$FUSIÓN FUTURA$
+23171610$QUITAR EL LIMITADOR$
+37630732$VÍNCULO DE PODER$

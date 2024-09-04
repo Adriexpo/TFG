@@ -1,0 +1,34 @@
+Passcode$Name$Status$Attribute$type$link$link_arrows$rank$pendulum_scale$level$attack$defense$spell_attribute$summoning_condition$pendulum_condition$card_text$card_supports$card_anti_supports$card_actions$effect_types$
+85520851$Tyranno Superconductor$Unlimited$LUZ$[Dinosaurio/Efecto]$$$$$Nivel 8$3300$1400$$$$Una vez por turno: puedes Sacrificar 1 monstruo; inflige 1000 puntos de daño a tu adversario. Esta carta no puede declarar un ataque en el turno en el que este efecto es activado.$$$Tributes for cost$Ignition/Condition$
+79870141$Bestia Loca de la Espada$Unlimited$TIERRA$[Dinosaurio/Efecto]$$$$$Nivel 4$1400$1200$$$$Si esta carta ataca a un monstruo en Posición de Defensa, inflige daño de batalla de penetración.$$$$Continuous$
+65287621$Driceratops Oscuro$Unlimited$TIERRA$[Dinosaurio/Efecto]$$$$$Nivel 6$2400$1500$$$$Si esta carta ataca a un monstruo en Posición de Defensa, inflige daño de batalla de penetración.$$$$Continuous$
+83235263$Tyranno Infinito$Unlimited$TIERRA$[Dinosaurio/Efecto]$$$$$Nivel 4$?$0$$$$El ATK original de esta carta es el número de tus monstruos de Tipo Dinosaurio desterrados x 1000.$Dinosaur$$$Continuous$
+83682725$Barrido de Cola$Unlimited$MÁGICA$$$$$$$$$$$$Selecciona 1 monstruo Dinosaurio de Nivel 5 o mayor que controles; si ese monstruo Dinosaurio todavía está boca arriba en el Campo, elige hasta 2 monstruos que controle tu adversario que tengan un Nivel menor que ése o que estén boca abajo, y devuelve a la mano los monstruos elegidos.$Dinosaur$$Returns from your opponent's field to your opponent's hand$Effect$
+10080320$Mundo Jurásico$Unlimited$MÁGICA$$$$$$$$$Campo$$$Todos los monstruos de Tipo Dinosaurio ganan 300 ATK y DEF.$Dinosaur$$$Continuous-like$
+05318639$Tifón del Espacio Místico$Unlimited$MÁGICA$$$$$$$$$Juego Rápido$$$Selecciona 1 Mágica/Trampa en el Campo; destruye ese objetivo.$$$$Effect$
+22046459$Megamorfo$Unlimited$MÁGICA$$$$$$$$$Equipo$$$Mientras tus LP sean menores que los de tu adversario, el ATK del monstruo equipado se convierte en el doble de su ATK original. Mientras tus LP sean mayores, el ATK del monstruo equipado se convierte en la mitad de su ATK original.$$$$Continuous-like$
+19613556$Tormenta Fuerte$Limited(OCG)$MÁGICA$$$$$$$$$$$$Destruye todas las Cartas Mágicas y de Trampa en el Campo.$$$$Effect$
+11925569$Instinto de Caza$Unlimited$TRAMPA$$$$$$$$$$$$Cuando uno o más monstruos son Invocados de Modo Especial al Campo de tu adversario (excepto durante el Damage Step): Invoca de Modo Especial, desde tu mano, 1 monstruo Dinosaurio.$Dinosaur$$Activates upon Special Summon$Activation requirement/Effect$
+58419204$Instinto de Supervivencia$Unlimited$TRAMPA$$$$$$$$$$$$Destierra cualquier cantidad de monstruos de Tipo Dinosaurio en tu Cementerio; gana 400 Life Points por cada monstruo de Tipo Dinosaurio desterrado para activar esta carta.$Dinosaur$$$Cost/Effect$
+79569173$Onda Expansiva Sísmica$Unlimited$TRAMPA$$$$$$$$$Continua$$$Destruye esta carta durante tu 3ra. Standby Phase después de la activación. Activa esta carta cuando un monstruo de Tipo Dinosaurio boca arriba que controles es destruido y mandado al Cementerio (excepto durante el Damage Step): elige 3 de las Zonas de Magia y Trampa de tu adversario sin usar. Esas Zonas no pueden ser usadas. Si esta carta de destruye a sí misma: puedes seleccionar 1 monstruo de Tipo Dinosaurio en tu Cementerio; añade a tu mano ese objetivo.$Dinosaur$$Activates from your Graveyard/Returns from Graveyard to hand$Continuous-like/Activation requirement/Effect/Trigger-like$
+96008713$Escudo Mágico de Brazo$Unlimited$TRAMPA$$$$$$$$$$$$Cuando un monstruo del adversario declara un ataque mientras controla 2 o más monstruos boca arriba y tú controlas un monstruo: selecciona 1 monstruo boca arriba que controle tu adversario, excepto el monstruo atacante; toma el control de ese monstruo boca arriba (hasta el final de la Battle Phase) y, si lo haces, cambia el objetivo del ataque a ese y haz el cálculo de daño.$$$Activates upon attack declaration/Changes control$Activation requirement/Effect$
+14315573$Negar Ataque$Unlimited$TRAMPA$$$$$$$$$Contraefecto$$$Cuando un monstruo del adversario declara un ataque: selecciona el monstruo atacante; niega el ataque, y después termina la Battle Phase.$$$Activates upon attack declaration/Ends the Battle Phase$Activation requirement/Effect$
+69632396$Goblin fuera de la sartén$Unlimited$TRAMPA$$$$$$$$$Contraefecto$$$Paga 500 Life Points. Niega la activación de una Carta Mágica y devuélvela a la mano de su propietario.$$$Returns from field to hand$Cost/Effect$
+06137095$Mal funcionamiento$Unlimited$TRAMPA$$$$$$$$$Contraefecto$$$Paga 500 Life Points. Niega la activación de una Carta de Trampa y devuélvela a su posición original.$$$$Cost/Effect$
+02671330$HÍPER CABEZA DE MARTILLO$
+51934376$KABAZAULS$
+37265642$SABLESAURIO$
+36042004$BEBECERASAURIO$
+42175079$ERUPCIÓN VOLCÁNICA$
+79409334$ESTEGO OSCURO$
+45894482$GILASAURUS$
+84808313$GRAN PÍLDORA DE EVOLUCIÓN$
+63259351$HUEVO MILAGROSO DEL JURÁSICO$
+22587018$HYDROGEDDON$
+22537443$LA BENDICIÓN DE SEBEK$
+85852291$MAZO MÁGICO$
+58071123$OXYGEDDON$
+34016756$RIRYOKU$
+38670435$TYRANNO NEGRO$
+15894048$ULTIMATE TYRANNO$
+69162969$VÓRTICE DE RELÁMPAGO$

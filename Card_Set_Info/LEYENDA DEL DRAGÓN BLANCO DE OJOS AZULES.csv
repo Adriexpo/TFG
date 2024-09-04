@@ -1,0 +1,77 @@
+Passcode$Name$Status$Attribute$type$link$link_arrows$rank$pendulum_scale$level$attack$defense$spell_attribute$summoning_condition$pendulum_condition$card_text$card_supports$card_anti_supports$card_actions$effect_types$
+39111158$Dragón de Tres Cuernos$Unlimited$OSCURIDAD$[Dragón/Normal]$$$$$Nivel 8$2850$2350$$$$Un dragón indigno con tres afilados cuernos que sobresalen de su cabeza.$$$$$
+89631139$Dragón Blanco de Ojos Azules$Unlimited$LUZ$[Dragón/Normal]$$$$$Nivel 8$3000$2500$$$$Este legendario dragón es una poderosa máquina de destrucción. Virtualmente invencible, muy pocos se han enfrentado a esta impresionante criatura y han vivido para contarlo.$$$$$
+45231177$Espadachín de la Llama$Unlimited$FUEGO$[Guerrero/Fusión]$$$$$Nivel 5$1800$1600$$$$"Manipulador de la Llama" + "Masaki el Espadachín Legendario"$$$$$
+46986414$Mago Oscuro$Unlimited$OSCURIDAD$[Lanzador de Conjuros/Normal]$$$$$Nivel 7$2500$2100$$$$El más grande de los magos en cuanto al ataque y la defensa.$$$$$
+06368038$Gaia el Caballero Feroz$Unlimited$TIERRA$[Guerrero/Normal]$$$$$Nivel 7$2300$2100$$$$Un caballero cuyo caballo galopa más rápido que el viento. Su carga en la batalla es una fuerza a considerar.$$$$$
+89091579$Insecto Básico$Unlimited$TIERRA$[Insecto/Normal]$$$$$Nivel 2$500$700$$$$Generalmente se le encuentra viajando en enjambres, el ambiente ideal de esta criatura es el bosque.$$$$$
+40374923$Cementerio de Mamuts$Unlimited$TIERRA$[Dinosaurio/Normal]$$$$$Nivel 3$1200$800$$$$Un mamut que protege las tumbas de su manada y que es absolutamente despiadado cuando se enfrenta a saqueadores de tumbas.$$$$$
+77827521$Juicio Infernal$Unlimited$OSCURIDAD$[Demonio/Normal]$$$$$Nivel 4$1300$900$$$$Este demonio juzga enemigos encerrados en ataúdes.$$$$$
+00032864$El Decimotercer Sepulcro$Unlimited$OSCURIDAD$[Zombi/Normal]$$$$$Nivel 3$1200$900$$$$Un zombi que aparece súbitamente desde la parcela nº 13, una sepulcro vacío.$$$$$
+37421579$Charubin el Caballero del Fuego$Unlimited$FUEGO$[Piro/Fusión]$$$$$Nivel 3$1100$800$$$$"Huevo Monstruoso" + "Alma de Hinotama"$$$$$
+17881964$Dragón de Fuego Oscuro$Unlimited$OSCURIDAD$[Dragón/Fusión]$$$$$Nivel 4$1500$1250$$$$"Hierba de Fuego" + "Petit Dragón"$$$$$
+53375573$Rey Oscuro del Abismo$Unlimited$OSCURIDAD$[Demonio/Normal]$$$$$Nivel 3$1200$800$$$$Se dice que este Rey del Submundo una vez tuvo el poder de gobernar sobre la oscuridad.$$$$$
+02863439$Reflejo de Demonio nº2$Unlimited$LUZ$[Bestia Alada/Normal]$$$$$Nivel 4$1100$1400$$$$Una bestia pájaro que invocar refuerzos con un espejo de mano.$$$$$
+15401633$Kagemusha de la Llama Azul$Unlimited$TIERRA$[Guerrero/Normal]$$$$$Nivel 2$800$400$$$$Sirve de doble para el Gobernante de la Llama Azul, es un experto espadachín que blande una hoja delgada.$$$$$
+57305373$Gobernador Oscuro Dos Bocas$Unlimited$TIERRA$[Dinosaurio/Normal]$$$$$Nivel 3$900$700$$$$Un dinosaurio con dos mandíbulas mortales, almacena electricidad en su cuerno y lanza rayos de alta tensión desde la boca en su espalda.$$$$$
+39004808$Raíz de Agua$Unlimited$AGUA$[Pez/Normal]$$$$$Nivel 3$900$800$$$$Un anfibio capaz de invocar un gigantesco maremoto desde los oscuros mares para barrer a los monstruos enemigos.$$$$$
+18710707$El Furioso Rey de los Mares$Unlimited$AGUA$[Aqua/Normal]$$$$$Nivel 3$800$700$$$$Gran Rey de los Siete Mares, es capaz de convocar inmensos maremotos para ahogar a sus enemigos.$$$$$
+22910685$Rey Fantasma del Bosque$Unlimited$TIERRA$[Planta/Normal]$$$$$Nivel 3$500$1600$$$$Este joven rey de los bosques vive en un mundo verde, con abundantes árboles y vida silvestre.$$$$$
+83464209$Oveja Mística #2$Unlimited$TIERRA$[Bestia/Normal]$$$$$Nivel 3$800$1000$$$$Una monstruosa oveja con una larga cola para hipnotizar a sus enemigos.$$$$$
+44287299$Masaki el Espadachín Legendario$Unlimited$TIERRA$[Guerrero/Normal]$$$$$Nivel 4$1100$1100$$$$El legendario espadachín Masaki es veterano de más de 100 batallas.$$$$$
+91595718$Libro de Artes Secretas$Unlimited$MÁGICA$$$$$$$$$Equipo$$$Un monstruo de Tipo Lanzador de Conjuros equipado con esta carta aumenta su ATK y su DEF en 300 puntos.$Spellcaster$$$Continuous-like$
+77027445$Poder de Kaishin$Unlimited$MÁGICA$$$$$$$$$Equipo$$$Sólo puedes equipar esta carta a un monstruo Aqua. Éste gana 300 ATK/DEF.$Aqua$$$Condition/Continuous-like$
+50045299$Jarra de Captura de Dragones$Unlimited$TRAMPA$$$$$$$$$Continua$$$Cambia todos los monstruos de Tipo Dragón boca arriba en el Campo a Posición de Defensa, y además éstos no pueden cambiar sus posiciones de batalla.$$Dragon$Changes battle positions/Prevents Battle Position changes$Continuous-like$
+38199696$Medicina Roja$Unlimited$MÁGICA$$$$$$$$$$$$Aumenta tus Life Points en 500 puntos.$$$$Effect$
+04206964$Agujero Trampa$Unlimited$TRAMPA$$$$$$$$$$$$Cuando tu adversario Invoca de Modo Normal o por Volteo un monstruo con 1000 ATK o más: selecciona ese monstruo; destruye ese objetivo.$$$$Activation requirement/Effect$
+24094653$Polimerización$Unlimited$MÁGICA$$$$$$$$$$$$Invoca por Fusión 1 Monstruo de Fusión desde tu Deck Extra, usando monstruos en tu mano o Campo como Material de Fusión.$Fusion Monster$$Sends from your hand to your Graveyard/Sends from your field to your Graveyard/Uses cards on the player's field as Fusion Materials/Uses cards in the hand as Fusion Materials$Effect$
+83887306$Ataque Doble Flanqueado$Unlimited$TRAMPA$$$$$$$$$$$$Selecciona y destruye 2 de tus monstruos y 1 de los monstruos de tu adversario.$$$$Effect$
+32452818$Guerrero Castor$Unlimited$TIERRA$[Guerrero-Bestia/Normal]$$$$$Nivel 4$1200$1500$$$$Lo que a esta criatura le falta en tamaño le sobra en defensa cuando batalla en la pradera.$$$$$
+28279543$Maldición de Dragón$Unlimited$OSCURIDAD$[Dragón/Normal]$$$$$Nivel 5$2000$1500$$$$Un malvado dragón que explota las fuerzas oscuras para ejecutar un potente ataque.$$$$$
+13039848$Soldado Gigante de Piedra$Unlimited$TIERRA$[Roca/Normal]$$$$$Nivel 3$1300$2000$$$$Un guerrero gigante hecho de piedra. Un puñetazo de esta criatura provoca temblores de tierra.$$$$$
+74677422$Dragón Negro de Ojos Rojos$Unlimited$OSCURIDAD$[Dragón/Normal]$$$$$Nivel 7$2400$2000$$$$Un dragón feroz con un ataque mortal.$$$$$
+33066139$Segadora de las Cartas$Unlimited$OSCURIDAD$[Demonio/Volteo/Efecto]$$$$$Nivel 5$1380$1930$$$$VOLTEO: Selecciona 1 Carta de Trampa en el Campo y destruyela. Si la carta seleccionada está Colocada, toma y mira la carta. Si es una Carta de Trampa, es destruida. Si es una Carta Mágica, devuelvela a su posición original.$$$Reveals face-down cards$Flip$
+36304921$Fantasma Ingenioso$Unlimited$OSCURIDAD$[Demonio/Normal]$$$$$Nivel 4$1400$1300$$$$Ataviado con un esmoquin negro, esta criatura preside en la oscuridad.$$$$$
+20060230$Armadura Dura$Unlimited$TIERRA$[Guerrero/Normal]$$$$$Nivel 3$300$1200$$$$Una armadura viviente que ataca a sus enemigos con un placaje quebrantahuesos.$$$$$
+93553943$Devoradora de Hombres$Unlimited$TIERRA$[Planta/Normal]$$$$$Nivel 2$800$600$$$$Planta devoradora de hombres con tentáculos venenosos que usa contra los enemigos que la atacan.$$$$$
+56342351$M-Guerrero #1$Unlimited$TIERRA$[Guerrero/Normal]$$$$$Nivel 3$1000$500$$$$Especializado en ataques combinados, este guerrero utiliza el magnetismo para bloquear la huída del enemigo.$$$$$
+92731455$M-Guerrero #2$Unlimited$TIERRA$[Guerrero/Normal]$$$$$Nivel 3$500$1000$$$$Especializado en ataques combinados, este guerrero está equipado con una resistente armadura recubierta magnéticamente.$$$$$
+80770678$Espíritu del Arpa$Unlimited$LUZ$[Hada/Normal]$$$$$Nivel 4$800$2000$$$$Un espíritu que calma el alma con la música de su arpa celestial.$$$$$
+63308047$Terra el Terrible$Unlimited$OSCURIDAD$[Demonio/Normal]$$$$$Nivel 4$1200$1300$$$$Conocido como un habitante del pantano, esta criatura es un secuaz de las fuerzas oscuras.$$$$$
+75376965$Sirena Encantadora$Unlimited$AGUA$[Pez/Normal]$$$$$Nivel 3$1200$900$$$$Una bella sirena que atrae a los viajeros a una muerte acuática.$$$$$
+70681994$Dragoness el Caballero Perverso$Unlimited$VIENTO$[Guerrero/Fusión]$$$$$Nivel 3$1200$900$$$$"Armaill" + "Dragón Escudo de Ojo Único"$$$$$
+33064647$Dragón Escudo de Ojo Único$Unlimited$VIENTO$[Dragón/Normal]$$$$$Nivel 3$700$1300$$$$Este dragón usa un escudo no sólo para su propia protección, sino también para cargar contra sus enemigos.$$$$$
+77007920$Armadura de Cañón Láser$Unlimited$MÁGICA$$$$$$$$$Equipo$$$Sólo puedes equipar esta carta a un monstruo Insecto. Éste gana 300 ATK/DEF.$Insect$$$Continuous-like$
+01557499$Arco y Flecha de Plateados$Unlimited$MÁGICA$$$$$$$$$Equipo$$$Un monstruo de Tipo Hada equipado con esta carta aumenta su ATK y su DEF en 300 puntos.$Fairy$$$Continuous-like$
+01435851$Tesoros de Dragón$Unlimited$MÁGICA$$$$$$$$$Equipo$$$Un monstruo de Tipo Dragón equipado con esta carta aumenta su ATK y su DEF en 300 puntos.$Dragon$$$Continuous-like$
+37820550$Electro-Látigo$Unlimited$MÁGICA$$$$$$$$$Equipo$$$Un monstruo de Tipo Trueno equipado con esta carta aumenta su ATK y su DEF en 300 puntos.$Thunder$$$Continuous-like$
+36607978$Luna Mística$Unlimited$MÁGICA$$$$$$$$$Equipo$$$Sólo puedes equipar esta carta a un monstruo de Tipo Guerrero Bestia. Éste gana 300 ATK y DEF.$Beast-Warrior$$$Condition/Continuous-like$
+25769732$Fábrica de Conversión de Máquinas$Unlimited$MÁGICA$$$$$$$$$Equipo$$$Sólo puedes equipar esta carta a un monstruo Máquina. Éste gana 300 ATK/DEF.$Machine$$$Continuous-like$
+51267887$Elevar el Calor Corporal$Unlimited$MÁGICA$$$$$$$$$Equipo$$$Sólo puedes equipar esta carta a un monstruo Dinosaurio. Éste gana 300 ATK/DEF.$Dinosaur$$$Continuous-like$
+98252586$Seguir al Viento$Unlimited$MÁGICA$$$$$$$$$Equipo$$$Un monstruo de Tipo Bestia Alada equipado con esta carta aumenta su ATK y su DEF en 300 puntos.$Winged Beast$$$Continuous-like$
+11868825$El Remedio Secreto del Trasgo$Unlimited$MÁGICA$$$$$$$$$$$$(Esta carta se trata siempre como una carta "Goblin").Aumenta tus Life Points en 600 puntos.$$$$Effect$
+72302403$Espadas de la Luz Reveladora$Unlimited$MÁGICA$$$$$$$$$$$$Después de la activación de esta carta, ésta permanece en el Campo, pero debes destruirla durante la End Phase del 3er. turno de tu adversario. Cuando esta carta es activada: si tu adversario controla un monstruo boca abajo, voltea boca arriba todos los monstruos que controle. Mientras esta carta esté boca arriba en el Campo, los monstruos de tu adversario no pueden declarar un ataque.$$$Flips monsters face-up$Condition/Effect/Continuous-like$
+45042329$Bestia de Cable Tendido$Unlimited$TIERRA$[Trueno/Normal]$$$$$Nivel 4$1200$1300$$$$Esta criatura ataca con ondas electromagnéticas.$$$$$
+95952802$Lobo de Flor$Unlimited$TIERRA$[Bestia/Fusión]$$$$$Nivel 5$1800$1400$$$$"Colmillo Plateado" + "Espinas de Darkworld"$$$$$
+54652250$Insecto Come-hombres$Unlimited$TIERRA$[Insecto/Volteo/Efecto]$$$$$Nivel 2$450$600$$$$VOLTEO: Selecciona 1 monstruo en el Campo; destrúyelo.$$$$Flip$
+73051941$Piedra de Arena$Unlimited$TIERRA$[Roca/Normal]$$$$$Nivel 5$1300$1600$$$$Aparece desde el subsuelo para atacar con tentáculos largos y serpentinos.$$$$$
+43500484$Espinas de Darkworld$Unlimited$TIERRA$[Planta/Normal]$$$$$Nivel 3$1200$900$$$$Una planta espinosa que se encuentra en las tierras oscuras y que se enrosca alrededor de cualquier viajero inadvertido.$$$$$
+16353197$Lagartija Babeante$Unlimited$TIERRA$[Reptil/Normal]$$$$$Nivel 3$900$800$$$$Una serpiente chupasangre con forma humana que ataca a cualquier ser viviente que se le aproxime.$$$$$
+17535588$Estrellas de Mar Blindadas$Unlimited$AGUA$[Aqua/Normal]$$$$$Nivel 4$850$1400$$$$Una estrella de mar azulada con una piel muy dura para rechazar los ataques.$$$$$
+55291359$Caballero Succubus$Unlimited$OSCURIDAD$[Guerrero/Normal]$$$$$Nivel 5$1650$1300$$$$Un indigno lagarto guerrero adepto a lanzar conjuros mortales.$$$$$
+83764718$Monstruo Renacido$Limited$MÁGICA$$$$$$$$$$$$Selecciona 1 monstruo en cualquier Cementerio; Invócalo de Modo Especial.$$$$Effect$
+55144522$Olla de la Codicia$Forbidden(OCG)$MÁGICA$$$$$$$$$$$$Roba 2 cartas.$$$You draw cards$Effect$
+08124921$Pierna Derecha del Prohibido$Limited$OSCURIDAD$[Lanzador de Conjuros/Normal]$$$$$Nivel 1$200$300$$$$Una pierna derecha prohibida, sellada mágicamente. Quienquiera que rompa este sello conocerá el poder infinito.$$$$$
+44519536$Pierna Izquierda del Prohibido$Limited$OSCURIDAD$[Lanzador de Conjuros/Normal]$$$$$Nivel 1$200$300$$$$Una pierna izquierda prohibida, sellada mágicamente. Quienquiera que rompa este sello conocerá el poder infinito.$$$$$
+70903634$Brazo Derecho del Prohibido$Limited$OSCURIDAD$[Lanzador de Conjuros/Normal]$$$$$Nivel 1$200$300$$$$Un brazo derecho prohibido, sellado mágicamente. Quienquiera que rompa este sello conocerá el poder infinito.$$$$$
+07902349$Brazo Izquierdo del Prohibido$Limited$OSCURIDAD$[Lanzador de Conjuros/Normal]$$$$$Nivel 1$200$300$$$$Un brazo izquierdo prohibido, sellado mágicamente. Quienquiera que rompa este sello conocerá el poder infinito.$$$$$
+33396948$Exodia el Prohibido$Limited$OSCURIDAD$[Lanzador de Conjuros/Efecto]$$$$$Nivel 3$1000$1000$$$$Si tienes "Pierna Derecha del Prohibido", "Pierna Izquierda del Prohibido", "Brazo Derecho del Prohibido" y "Brazo Izquierdo del Prohibido", además de esta carta en tu mano, ganas el Duelo.$Right Leg of the Forbidden One/Left Leg of the Forbidden One/Right Arm of the Forbidden One/Left Arm of the Forbidden One$$Activates from your hand$Condition$
+66889139$Gaia el Campeón Dragón$Unlimited$VIENTO$[Dragón/Fusión]$$$$$Nivel 7$2600$2100$$$$"Gaia el Caballero Feroz" + "Maldición de Dragón"$$$$$
+$GRIS OSCURO$
+$HIERBA DE FUEGO$
+$PETIT ÁNGEL$
+$BOSQUE$
+$RAYO Y TEMPERATURA$
+$UMI$
+$URABY$
+$DISUELVEROCAS$
