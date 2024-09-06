@@ -9,5 +9,3 @@ I have been a Yu-Gi-Oh! collector for quite some time now and most of my cards a
 The goal of this AI project is not to perfectly grade cards or give a numerical rating, but rather to detect defects or imperfections in the card and provide the user with an estimated rating based on the groups Poor, Played, Light Played, Good, Excellent, Near Mint and Mint. 
 
 This way, what the AI provides can confirm or cast doubt on the user's human evaluation of the card's status, causing them to question their first evaluation and perhaps correct it or, at the very least, generate doubt to the point of offering photos to potential buyers to make sure they agree on its condition.
-
-## The methodology: Which concepts and tools did I apply?
